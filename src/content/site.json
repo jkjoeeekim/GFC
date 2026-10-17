@@ -1,0 +1,39 @@
+{
+  "service": {
+    "day": "Sundays",
+    "time": "11 AM",
+    "room": "Main sanctuary",
+    "addressLine": "6551 Western Ave",
+    "city": "Buena Park",
+    "state": "CA",
+    "postalCode": "90621"
+  },
+  "contactEmail": "gfchousechurches@gmail.com",
+  "links": {
+    "giving": "https://tithe.ly/give?c=8208913",
+    "koreanCongregation": "http://gfchome.org"
+  },
+  "home": {
+    "hero": {
+      "headingLine1": "Faith grows",
+      "headingLine2": "in family.",
+      "descriptionLine1": "A community rooted in Christ.",
+      "descriptionLine2": "A place to share life, grow, and belong.",
+      "mainPhoto": "/images/home-3.webp",
+      "mainPhotoAlt": "The GFC church family gathered together at the 2026 winter retreat",
+      "nearPhoto": "/images/house-church-1.webp",
+      "nearPhotoAlt": "House church members sharing a meal around a kitchen table"
+    },
+    "community": {
+      "headingLine1": "Church doesn’t end",
+      "headingLine2": "on Sunday.",
+      "description": "It happens around tables. In shared meals and honest conversations. In the everyday moments where we grow together in Christ.",
+      "meetingDays": "Wednesdays and Fridays"
+    },
+    "invitation": {
+      "headingLine1": "There’s room",
+      "headingLine2": "at the table.",
+      "description": "New to GFC? We’d love to help you connect with a house church."
+    }
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "mission": "Our purpose is to fulfill the Great Commission in our local communities. We aim to do this by bringing together both believers and non-believers in house church meetings. We value community and authentic love and believe that through a holistic transformation in Christ, an individual will begin to live out their true calling in life.",
+  "who": [
+    "God’s Family Church is a local church based in Buena Park, California. Our English-Speaking Congregation (ESC) is divided into multiple house churches based on age groups: Catalyst (our youth house church), college, and young adults/married couples.",
+    "Our mission statement is based on the Great Commission given to the Church in Matthew 28. Therefore, we purpose to reach our communities for Christ and build them up as fully devoted servant-leaders so that they can be sent out as messengers of the Good News. We exist to know God and make Him known.",
+    "Sunday Service: 11AM (main sanctuary)"
+  ],
+  "pastor": "Tim Yu serves as the head pastor and the English-Speaking Congregation’s director here at God’s Family Church. He graduated from UCLA with a degree in psychobiology and from Fuller Theological Seminary, where he received his master’s degree in theology and a doctoral degree in clinical psychology. He is married to his wife, Paulina, with whom he has a daughter named Samantha. In addition to his love for ministry, he is passionate about basketball, movies, and photography.",
+  "houseChurch": [
+    "We here at God’s Family Church believe that house church is the heart and core value of ministry that aims to imitate and restore the New Testament church. A house church is a community comprised of 6-12 members that fulfills all the intrinsic purposes of church (worship, education, fellowship, service, evangelism, missions), shepherded by lay leaders.",
+    "Every Wednesdays and Fridays, all of GFC’s house churches meet in each member’s homes to come and break bread, praise, share about their lives, and pray together while providing a space for our non-believing VIPs to come to know and believe in Christ. Our church’s purpose is to save the lost and make disciples that make disciples, and we believe that house church ministry allows for that to happen.",
+    "If you are new and interested in joining a house church, please let any of our members know and we will be more than happy to plug you into any of our house churches! If you have any questions or concerns, please email us at gfchousechurches@gmail.com."
+  ],
+  "give": "Your offering allows us to fulfill our mission statement of making disciples that make disciples. You can give online by clicking the link below or drop a check (payable to “God’s Family Church”) in the tithing box located in the back of our worship room. Thank you so much for helping us advance the Kingdom!",
+  "churches": [
+    {
+      "id": 0,
+      "leader": "REV. TIM & PAULINA YU",
+      "name": "SIMBERI HOUSE CHURCH",
+      "area": "BUENA PARK, CA",
+      "stage": "Young adults & married couples",
+      "image": "/images/house-church-5.webp"
+    },
+    {
+      "id": 1,
+      "leader": "JOSH & LANAH JO",
+      "name": "HIRAGISHI HOUSE CHURCH",
+      "area": "ORANGE, ca",
+      "stage": "Young adults & married couples",
+      "image": "/images/house-church-6.webp"
+    },
+    {
+      "id": 2,
+      "leader": "MAX TRAN & MICHELLE WON",
+      "name": "OSAKA HOUSE CHURCH",
+      "area": "ORANGE, CA",
+      "stage": "Young adults & married couples",
+      "image": "/images/house-church-7.webp"
+    },
+    {
+      "id": 3,
+      "leader": "SHINAEI YU",
+      "name": "ENSENADA HOUSE CHURCH",
+      "area": "DIAMOND Bar, ca",
+      "stage": "Young adults & married couples",
+      "image": "/images/house-church-8.webp"
+    },
+    {
+      "id": 4,
+      "leader": "ESTHER MIN & ARIF CHU",
+      "name": "UGANDA HOUSE CHURCH",
+      "area": "LOS ANGELES, CA",
+      "stage": "Young adults & married couples",
+      "image": "/images/house-church-9.webp"
+    },
+    {
+      "id": 5,
+      "leader": "JOEY YI",
+      "name": "KANDAI HOUSE CHURCH",
+      "area": "FULLERTON, CA",
+      "stage": "Young adults & married couples",
+      "image": "/images/house-church-10.webp"
+    },
+    {
+      "id": 6,
+      "leader": "YUBIN CHOI",
+      "name": "LAOS HOUSE CHURCH",
+      "area": "BREA, CA",
+      "stage": "Young adults & married couples",
+      "image": "/images/house-church-11.webp"
+    },
+    {
+      "id": 7,
+      "leader": "ANDREW LEE & FAITH LEE",
+      "name": "SAPPORO HOUSE CHURCH (COLLEGE)",
+      "area": "BELLFLOWER, CA",
+      "stage": "College",
+      "image": "/images/house-church-12.webp"
+    },
+    {
+      "id": 8,
+      "leader": "RACHEL YOO & CLAY KIM",
+      "name": "CATALYST HOUSE CHURCH (YOUTH)",
+      "area": "GOD’S FAMILY CHURCH",
+      "stage": "Youth",
+      "image": "/images/house-church-13.webp"
+    },
+    {
+      "id": 9,
+      "leader": "CLARICE KANG & BRANDON BABICH",
+      "name": "CATALYST HOUSE CHURCH (YOUTH)",
+      "area": "God’s family church",
+      "stage": "Youth",
+      "image": "/images/house-church-14.webp"
+    }
+  ],
+  "beliefs": [
+    {
+      "number": 1,
+      "title": "There is One God, and His Name is Yahweh",
+      "points": [
+        "God is Triune, existing eternally as one God in three Persons: the Father, the Son, the Holy Spirit, all referred to as male.",
+        "God is omnipotent, omnipresent, and omniscient.",
+        "God is perfect in goodness, righteousness, justice, wrath, wisdom, mercy, grace, and love.",
+        "God is without restraint or limitation in regards to time, force, action, space, or matter.",
+        "God is the only true God; no other god or otherwise divine being exists."
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The Bible is God’s Perfect Word",
+      "points": [
+        "The Bible is inerrant & infallible in all its parts and as a whole, pertaining to its original manuscripts.",
+        "The Bible is unique as the only divinely revealed & sovereignly authoritative source of God’s instruction to mankind.",
+        "The Bible is plenary in its 66 books, missing no portion, nor having any unnecessary portion.",
+        "The Bible is sufficient to achieve its purposes for faith and godliness in every time and every culture.",
+        "The Bible is perspicuous, having one true meaning, knowable by any man through proper historical-grammatical context."
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Man is Inherently Sinful",
+      "points": [
+        "We are made in the image of God which is obscured through the stain of sin.",
+        "We are sinful from the moment of conception, when we are fully human with a human soul.",
+        "We are spiritually dead—unable to achieve any spiritual good—until regenerated by the Holy Spirit.",
+        "We are under penalty of moral law and deserve divine moral justice, namely physical and spiritual death.",
+        "We are unable to save ourselves by any means or merit or motive."
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Jesus Christ is Our Only Savior",
+      "points": [
+        "Jesus was born of a virgin, conceived of the Holy Spirit, 100% man, 100% God, unstained by man’s sin.",
+        "Jesus lived a perfectly righteous life, being tempted in every way yet never committing sin.",
+        "Jesus was physically killed, physically resurrected, and ascended into heaven.",
+        "Jesus died an undeserved death, taking the place of any who surrender their lives to him in faith.",
+        "Jesus is the only way of salvation, the only Mediator, the only Redeemer, and fully paid the penalty for man’s sin."
+      ]
+    },
+    {
+      "number": 5,
+      "title": "We are Saved by Grace Through Faith Unto Righteousness",
+      "points": [
+        "Saving faith is not earned or deserved by man nor obtained through sacrament, but freely offered by God’s grace.",
+        "Saving faith is produced by the work of the Holy Spirit in the soul of the man.",
+        "Saving faith is an inherent trust in the character of God as described in His Word.",
+        "Saving faith is manifested and witnessed in repentance, belief, and good works."
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Heaven and Hell are True, Eternal Destinations",
+      "points": [
+        "All who repent of their sins and place trust in Jesus as Lord and Savior will not perish but have everlasting life in heaven.",
+        "All who do not repent of their sins or who reject Jesus as Lord and Savior are condemned to eternal punishment in hell.",
+        "The human soul is immediately in heaven or hell after physical death, with no alternative destination.",
+        "There is no transfer of residence from hell to heaven or heaven to hell ever, at any time.",
+        "Heaven, earth, and hell will each receive new and final forms wherein human souls will consciously dwell forever."
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Christ Will Come Again",
+      "points": [
+        "Christ currently sits at the right hand of God, alive and active in the world through the activity of the Holy Spirit.",
+        "Christ will return in physical form as before to claim the earth with judgment.",
+        "Christ will return as his resurrected self, not veiled in the form of another human being.",
+        "Christ will return to put a permanent end to sin in the new heaven and new earth.",
+        "All persons who have ever lived will be resurrected with indestructible physical bodies, in which to dwell for eternity."
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Election & Free Agency",
+      "points": [
+        "Salvation is by predestination in the plan of God for every believer before time began.",
+        "Salvation is by the free agency and will of man to place faith and trust and allegiance in God.",
+        "Salvation is by predestination and free will, and is impossible to truly reconcile with temporal understanding.",
+        "Salvation is by justification in coming to saving faith, sanctification in daily living, and glorification in the future.",
+        "Salvation is by true saving faith, which can only be known to God with full certainty."
+      ]
+    },
+    {
+      "number": 9,
+      "title": "The Church",
+      "points": [
+        "The Church is the people of God, not a building nor an institution, but a collection of all who possess true saving faith.",
+        "The Church is the body of Christ, the means by which his activity takes place on earth.",
+        "The Church is the bride of Christ, characterized by commitment and faithfulness, each from one to the other.",
+        "The Church is the priesthood of believers, mediating between God and the world as ambassadors of salvation."
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Men and Women",
+      "points": [
+        "Man and Woman are both equally created in the image of God, equal in value, but different in function.",
+        "The pastoral office is specifically male, not by capacity or ability, but simply by God’s intention, order, and design.",
+        "Like the Trinity, man and woman are united as one (in marriage), yet maintain their separate personhood.",
+        "Man was made for natural relations with one woman, and woman was made for natural relations with one man.",
+        "Adultery, promiscuity, homosexuality, and other aberrant sexual behavior are explicitly deviations from God’s desire."
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Spiritual Gifts",
+      "points": [
+        "Every believer is equipped with varying abilities which are to be used to edify the Church.",
+        "Spiritual gifts can be used properly, as instructed in Scripture, or irresponsibly abused.",
+        "Speaking in tongues, interpretation, healing, and prophecy were authenticating gifts in the early church.",
+        "Authenticating gifts do not possess the same prominence today as during the Apostolic Age, but have not ceased today.",
+        "No authenticating gift can contradict, reinterpret, nor conflict in any way with Scripture."
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Baptism & Communion",
+      "points": [
+        "Baptism is the physical symbol of a believer’s death, burial, and resurrection with Christ by immersion in water.",
+        "Baptism is to express true saving faith, not parental intent nor baby dedication; it is not for infants or unbelievers.",
+        "Communion is the physical symbol of a believer’s participation in the broken body and shed blood of Christ.",
+        "Communion is to express true saving faith, not transubstantiation nor consubstantiation; it is for remembrance of Christ.",
+        "Baptism is done only once, for new believers; Communion is done frequently for all believers."
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Creation & Evolution",
+      "points": [
+        "God created the world in six literal, 24-hour, solar days, approximately 6000 to 10,000 years ago.",
+        "God created all things in a mature state, including the earth, all life, and all physical processes.",
+        "God created the world with everything created “according to its kind”, not evolved, mutated, or speciated.",
+        "God did not evolve anything and is not evolving anything by theistic evolution.",
+        "God created the world and no longer creates ex-nihilo, but will someday make a new heaven and a new earth."
+      ]
+    }
+  ],
+  "secondaryIntro": "The following are also important doctrines that we teach; though we affirm the value of each of these statements, we do not hold them to be of central import to the saving gospel of Jesus, and we hope never to split fellowship in God’s kingdom over them. May the Word of God be our teacher over any man.",
+  "socials": [
+    {
+      "label": "YouTube",
+      "href": "https://www.youtube.com/godsfamilychurch"
+    },
+    {
+      "label": "Flickr",
+      "href": "https://www.flickr.com/photos/140576846@N07/albums/"
+    },
+    {
+      "label": "Facebook",
+      "href": "https://facebook.com/gfchousechurches"
+    },
+    {
+      "label": "Instagram",
+      "href": "http://instagram.com/gfchouse"
+    },
+    {
+      "label": "Spotify",
+      "href": "https://open.spotify.com/show/0yKrBxniplaSHCk27aPMvj?si=EBGdCyV7SjumOIgP4b4RJA"
+    },
+    {
+      "label": "Apple Podcasts",
+      "href": "https://podcasts.apple.com/us/podcast/gods-family-church/id1833786837"
+    }
+  ]
+}

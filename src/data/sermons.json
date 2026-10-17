@@ -1,0 +1,2602 @@
+{
+  "series": [
+    {
+      "slug": "recent-sermons",
+      "title": "recent sermons",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/330e874c-e370-46f7-89a3-b19fc1dcfc71/10.4.26+-+Luke+Sermon+42.001.jpeg",
+      "count": 3,
+      "localImage": "/images/sermons/0082247b0ac87255.webp"
+    },
+    {
+      "slug": "luke",
+      "title": "THE GOSPEL OF LUKE",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/007857aa-57db-4006-85a3-21854d59499f/8.24.25+-+Luke+Sermon+1.001.png",
+      "count": 33,
+      "localImage": "/images/sermons/9251ffad46096564.webp"
+    },
+    {
+      "slug": "joseph",
+      "title": "JOSEPH: FROM PRISON TO PALACe",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/9ef5dbdc-2e09-4ce2-b37d-f5e8183c4deb/6.22.25+-+Joseph+Part+1.001.png",
+      "count": 2,
+      "localImage": "/images/sermons/1bf10655a1cdc133.webp"
+    },
+    {
+      "slug": "daniel",
+      "title": "The Book of daniel: kingdom under fire",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/d1acb1d1-925c-4ac3-8045-1a354ba0cd10/3.16.25+-+Daniel+Sermon+2.001+2.png",
+      "count": 12,
+      "localImage": "/images/sermons/12363c70c4c7bcd1.webp"
+    },
+    {
+      "slug": "2025-bible-reading-plan",
+      "title": "2025 BIBLE READING PLAN SERMONS",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/ee107af7-8755-483b-8e41-33ee87b91e8b/GFC+Youtube+Thumbnails.png",
+      "count": 1,
+      "localImage": "/images/sermons/0e8c22a28f4bd9ec.webp"
+    },
+    {
+      "slug": "1-peter",
+      "title": "1 PETER",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/f423d77d-dd8c-4eb0-ac6c-25b6f8ec923b/GFC+Youtube+Thumbnails+%281%29+copy+12.png",
+      "count": 8,
+      "localImage": "/images/sermons/acaa50d61844fc2c.webp"
+    },
+    {
+      "slug": "love-sex-and-dating",
+      "title": "LOVE, SEx, and dating",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/d3273258-9ae6-4e0f-b273-43b17a8a20b3/GFC+Youtube+Thumbnails.png",
+      "count": 6,
+      "localImage": "/images/sermons/1a4801ae2d3e724a.webp"
+    },
+    {
+      "slug": "elijah",
+      "title": "THE ELIJAH SERiES",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/5688a132-335c-4d7f-94b3-3cec90d37f15/GFC+Youtube+Thumbnails+%281%29.png",
+      "count": 9,
+      "localImage": "/images/sermons/04aef9e1dab7e3b5.webp"
+    },
+    {
+      "slug": "ephesians",
+      "title": "THE BOOK OF EPHESIANS",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/ab851cec-79b0-46af-8ac3-83ee95008dd3/09+Week+3.png",
+      "count": 30,
+      "localImage": "/images/sermons/969e3dc619712117.webp"
+    },
+    {
+      "slug": "david",
+      "title": "THE STORY OF DAVID",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/cd7b2970-bb22-4ef3-8265-9acef63f08aa/April+Week+3.png",
+      "count": 13,
+      "localImage": "/images/sermons/327f6eb47e96a54d.webp"
+    },
+    {
+      "slug": "1-thessalonians",
+      "title": "1 ThESSALONIANS",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/8cb510e0-cf1d-40cd-89b0-76a5f9ca6477/021923.png",
+      "count": 6,
+      "localImage": "/images/sermons/972a9c892a328bbf.webp"
+    },
+    {
+      "slug": "ruth",
+      "title": "THE STORY OF RUTH",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/14aeb9dc-ba3e-4f1d-80e5-bb6a3cb7d530/012223.png",
+      "count": 4,
+      "localImage": "/images/sermons/3bafd9702ef6c82f.webp"
+    },
+    {
+      "slug": "house-church",
+      "title": "THE HOUSE CHURCH MINISTRY",
+      "description": "Listen with the rest of God’s Family Church to learn more about the house church ministry, which aims to model the New Testament church.",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/d7d7d9b8-3edb-4fc7-a6df-9697e987c027/Screenshot+2022-12-04+at+21.01.08.png",
+      "count": 4,
+      "localImage": "/images/sermons/f2aa538e87242dc4.webp"
+    },
+    {
+      "slug": "guest-pastors",
+      "title": "guest pastors",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/4c62e3dd-0b84-4eef-9aa9-a1e0943ea79d/Rustic+Minimal+Wedding+Print+Banner+%282%29.png",
+      "count": 24,
+      "localImage": "/images/sermons/ed1e3f4516c5daaf.webp"
+    },
+    {
+      "slug": "john",
+      "title": "The gospel of john",
+      "description": "Listen along with the rest of God's Family Church as we study the Gospel of John.",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/1453789150564-DTTN0RN9LUJ1GJSSCFK8/john2.jpg",
+      "count": 30,
+      "localImage": "/images/sermons/6685afbeb47631ed.webp"
+    },
+    {
+      "slug": "galatians",
+      "title": "THE BOOK OF GALATIANS",
+      "description": "Come as we read and listen to Paul's letter to the Church of Galatia.",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/1479071133751-ELS3KRJUWC2WEV985Q94/Galatians-Series_1920x1080.jpg",
+      "count": 9,
+      "localImage": "/images/sermons/75beb6ac872b3625.webp"
+    },
+    {
+      "slug": "colossians",
+      "title": "Colossians",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/1518219908465-NPFJHOD7MWT6H95ORW7N/0e1371443_colossians--the-supremecy-of-christ.jpg",
+      "count": 3,
+      "localImage": "/images/sermons/cb6bbd43f3838e2b.webp"
+    },
+    {
+      "slug": "controversial-topics",
+      "title": "controversial topics",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/1a70b638-613b-46d7-818d-03c971aa42d4/Welcome+to+Church+%281%29.jpg",
+      "count": 4,
+      "localImage": "/images/sermons/6a61d811294dc5bf.webp"
+    },
+    {
+      "slug": "fathers-day",
+      "title": "FATHER’S DAY",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/fa0db391-e5ca-4d2c-8c8e-ae6f23d75ae6/Beige+Grey+Blogger+YouTube+Channel+Art+%282%29.png",
+      "count": 1,
+      "localImage": "/images/sermons/a9a87007130e6d9f.webp"
+    },
+    {
+      "slug": "party-time",
+      "title": "Party Time",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/1513596640113-E65LXTSTD8A137XWUY7P/colourful-background-party-time-bachelorette-party-template-invitation-66370308.jpg",
+      "count": 1,
+      "localImage": "/images/sermons/4f18f4a6e8540f27.webp"
+    },
+    {
+      "slug": "sermon-on-the-mount",
+      "title": "Sermon on the mount",
+      "description": "Come join with the rest of God's Family Church as we dive into Jesus' teachings of the Beatitudes.",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/1502051272109-YHUQ99MA8XRZN35THTBI/image-asset.jpeg",
+      "count": 13,
+      "localImage": "/images/sermons/59c6244e0d796c20.webp"
+    },
+    {
+      "slug": "1-corinthians",
+      "title": "1 Corinthians &mdash; GFC",
+      "description": "",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/25cc2472-40d9-4c17-9ef6-2a41ed7f71d4/Rustic+Minimal+Wedding+Print+Banner+%281%29.png",
+      "count": 10,
+      "localImage": "/images/sermons/084ff0fa0db8c66f.webp"
+    }
+  ],
+  "sermons": [
+    {
+      "id": "3F81-hnnAQw",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/3F81-hnnAQw?feature=oembed",
+      "title": "Luke:  | Luke | GFC Sunday Service Livestream - Oct 11, 2026",
+      "image": "",
+      "series": [
+        "recent-sermons",
+        "luke"
+      ]
+    },
+    {
+      "id": "MWYYsrDcQjM",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/MWYYsrDcQjM?feature=oembed",
+      "title": "The Point of No Return | Luke 9:51-62 | GFC Sunday Service Livestream - Sep 27, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/330e874c-e370-46f7-89a3-b19fc1dcfc71/10.4.26+-+Luke+Sermon+42.001.jpeg",
+      "series": [
+        "recent-sermons",
+        "luke"
+      ],
+      "localImage": "/images/sermons/0082247b0ac87255.webp"
+    },
+    {
+      "id": "KXXHgSV9NgA",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/KXXHgSV9NgA?feature=oembed",
+      "title": "| Luke | GFC Sunday Service Livestream - Sep 20, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/39f0d45a-8c3c-4139-b453-1c80adea34e6/9.20.26+-+Luke+Sermon+40.001.jpeg",
+      "series": [
+        "recent-sermons",
+        "luke"
+      ],
+      "localImage": "/images/sermons/c016328468d2f10f.webp"
+    },
+    {
+      "id": "EDqmtaT1Ugk",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/EDqmtaT1Ugk?feature=oembed",
+      "title": "Luke: An Intro | Luke 1:1-3 | GFC Sunday Service Livestream - Aug 24, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/007857aa-57db-4006-85a3-21854d59499f/8.24.25+-+Luke+Sermon+1.001.png",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/9251ffad46096564.webp"
+    },
+    {
+      "id": "UoIFN0LNSzI",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/UoIFN0LNSzI?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Aug 31, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/5ec789fd-4379-4fac-bc64-0dbff746c4e5/8.31.25+-+Luke+Sermon+2.001-min.png",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/4441a0f0852f8286.webp"
+    },
+    {
+      "id": "76nXHAoKmK8",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/76nXHAoKmK8?start=1231&feature=oembed",
+      "title": "Ordinary Woman, Extraordinary Faith | Luke 1:26-38 | GFC Sunday Service Livestream - Sep 7, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/98d01df1-c74b-46c0-ac17-84b3dbddee8d/9.7.25+-+Luke+Sermon+3.001-min.png",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/f6f0468dda7d13bd.webp"
+    },
+    {
+      "id": "J6Cl028TdNg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/J6Cl028TdNg?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Sep 21, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/448f3560-b251-441f-8d65-2678333c0bb7/9.21.25+-+Luke+Sermon+4.001.png",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/65ca94812b7d7431.webp"
+    },
+    {
+      "id": "-pm_WwQ1kIA",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/-pm_WwQ1kIA?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Sep 28, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/56e72422-8838-4585-8906-1ad9c80e9346/9.28.25+-+Luke+Sermon+5.001.png",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/0b57d75c83936d95.webp"
+    },
+    {
+      "id": "64SE4ywX9IM",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/64SE4ywX9IM?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Oct 5, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/d12a32a6-11be-42c6-9b36-70812dd052ac/10.5.25+-+Luke+Sermon+6.001.png",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/4a1a512e96beff48.webp"
+    },
+    {
+      "id": "uG6IWPPecEk",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/uG6IWPPecEk?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Nov 2, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/245e58af-3ad5-4198-937a-ee137731b650/11.2.25+-+Luke+Sermon+7.001.png",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/d68ada7c3cefc44b.webp"
+    },
+    {
+      "id": "OFv4LvAQq3A",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/OFv4LvAQq3A?feature=oembed",
+      "title": "Vipers To Victory | Luke 3:1-22 | GFC Sunday Service Livestream - November 9, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/e8900ffb-52ac-42c7-a61e-3689f1452b0f/11.9.25+-+Luke+Sermon+8.001.png",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/1e3993a06302c5f4.webp"
+    },
+    {
+      "id": "3dMc_E38OkE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/3dMc_E38OkE?feature=oembed",
+      "title": "Hook, Line, & Sinker | Luke 4:1-13 | GFC Sunday Service Livestream - Jan 11, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/5ca8d32b-3ffe-4068-8581-20890e57f862/1.11.26+-+Luke+Sermon+10.001+%281%29.png",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/7e7da737a77a2392.webp"
+    },
+    {
+      "id": "uJbOEzRKyko",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/uJbOEzRKyko?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Jan 25, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/f1f7cecb-1bf9-4881-a7ac-c24c8a8d9d67/1.25.26+-+Luke+Sermon+11.001.png",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/57b1fc02bb3afd73.webp"
+    },
+    {
+      "id": "j-pKESXgZB0",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/j-pKESXgZB0?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Feb 8, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/0ba6a9a4-7ee0-4993-a521-e1d9835a766a/2.8.26+-+Luke+Sermon+13.001.png",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/ca92a27dff5ad74e.webp"
+    },
+    {
+      "id": "iCyehika4b4",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/iCyehika4b4?feature=oembed",
+      "title": "Go Fish | Luke 5:1-11 | GFC Sunday Service Livestream - Feb 15, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/6dc45fd0-89c3-42bf-a3e9-09eb970e55b9/2.15.26+-+Luke+Sermon+14.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/bc6365bc3e6868da.webp"
+    },
+    {
+      "id": "_t3CbTxjNjE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/_t3CbTxjNjE?feature=oembed",
+      "title": "Luke: Trading Places | Luke 5:12-16 | GFC Sunday Service Livestream - Mar 1, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/9c245e47-51fa-454c-b0d8-0047037cc348/3.1.26+-+Luke+Sermon+15.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/6e451ab68a8a655c.webp"
+    },
+    {
+      "id": "kZLaKN3g4wc",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/kZLaKN3g4wc?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Mar 8, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/04df7e78-6ff6-4851-9cba-ac161b789f62/3.8.26+-+Luke+Sermon+16.001.jpg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/e351546c4e794393.webp"
+    },
+    {
+      "id": "S0QS0HRSs8M",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/S0QS0HRSs8M?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Mar 29, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/38aefc68-2fd5-43b3-acd2-239ef517d474/3.29.26+-+Luke+Sermon+19.001.jpg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/cd851f10c4c1f4b2.webp"
+    },
+    {
+      "id": "1Vs5U2zrszA",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/1Vs5U2zrszA?feature=oembed",
+      "title": "The Masters' Training Program | Luke 6:12-16 | GFC Sunday Service Livestream - Apr 12, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/325d5b4d-24b2-4b66-86af-b396934e3228/4.12.26+-+Luke+Sermon+20.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/e0ceb78e9ef1f29a.webp"
+    },
+    {
+      "id": "xhswB8poXhc",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/xhswB8poXhc?feature=oembed",
+      "title": "Luke: Leadership Lab, Part Two | Luke 6:12-16 | GFC Sunday Service Livestream - Apr 19, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/afa6818d-c791-4ec1-84db-03e15781f779/4.19.26+-+Luke+Sermon+21.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/a9f9044362ffc002.webp"
+    },
+    {
+      "id": "EfJTvQdXzeE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/EfJTvQdXzeE?feature=oembed",
+      "title": "Luke: Cross The Line Luke | Luke 6:17-26 | GFC Sunday Service Livestream - Apr 26, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/4bd0ef14-c9a2-42dd-810d-52624ccb6fd9/4.26.26+-+Luke+Sermon+22.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/c4cb70e144bafa67.webp"
+    },
+    {
+      "id": "jHWnpCw1igU",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/jHWnpCw1igU?feature=oembed",
+      "title": "GFC Sunday Service Livestream - May 10, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/7f293722-8dfe-49ff-a821-d41472ab6a3e/5.10.26+-+Luke+Sermon+24.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/6b1d10995fcfd35f.webp"
+    },
+    {
+      "id": "TYNXnKwoF48",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/TYNXnKwoF48?feature=oembed",
+      "title": "GFC Sunday Service Livestream May, 24 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/9d412da7-f0f9-4c1c-99c4-9eebd302b38e/5.24.26_-_Luke_Sermon_25.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/03ce89e7b65f857e.webp"
+    },
+    {
+      "id": "hspKtpzpVHk",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/hspKtpzpVHk?feature=oembed",
+      "title": "GFC Sunday Service Livestream - May 31, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/c26de192-041b-42dc-9156-107ccde935a1/5.31.26+-+Luke+Sermon+26.001.jpg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/72a6f34aba4c198c.webp"
+    },
+    {
+      "id": "ivVTvh9OgQs",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/ivVTvh9OgQs?feature=oembed",
+      "title": "Luke: Arise | Luke 7:11-17 | GFC Sunday Service Livestream - Jun 7, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/c9dca55b-22df-4773-ad02-3a1765bf68c7/6.7.26+-+Luke+Sermon+27.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/a458667fe69c4b86.webp"
+    },
+    {
+      "id": "hOubCceVrTE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/hOubCceVrTE?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Jun 14, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/0f53fe4e-1152-41b0-8f1e-52bd5718d8fa/6.14.26+-+Luke+Sermon+28.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/81224a401fe65659.webp"
+    },
+    {
+      "id": "3Jwzb7-AW6Q",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/3Jwzb7-AW6Q?feature=oembed",
+      "title": "Luke: The Uninvited Guest | Luke 7:36-50 | GFC Sunday Service Livestream - Jun 21, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/c375a901-b788-440d-8c10-8898d196bef6/6.21.26+-+Luke+Sermon+29.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/101ad41af1dfb1e1.webp"
+    },
+    {
+      "id": "IvOtTDGhT3w",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/IvOtTDGhT3w?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Jun 28, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/b9aebba7-de95-4588-b9ef-63843cd2276a/6.28.26+-+Luke+Sermon+31.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/178eca0d45bd1df9.webp"
+    },
+    {
+      "id": "vOVlqsG6KV8",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/vOVlqsG6KV8?feature=oembed",
+      "title": "Luke:  | Luke  | GFC Sunday Service Livestream - Jul 12, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/606530bb-1429-42dc-9c59-6045e1e9194f/7.12.26+-+Luke+Sermon+32.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/62086cbf86832f8d.webp"
+    },
+    {
+      "id": "h1pGbR_jTas",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/h1pGbR_jTas?feature=oembed",
+      "title": "Louder than Legion | Luke 8:26-39 | GFC Sunday Service Livestream - August 2, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/8a815f89-c03f-4cba-a17f-3dfc0529be34/8.2.26+-+Luke+Sermon+33.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/544851946645106e.webp"
+    },
+    {
+      "id": "za019JC9RmQ",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/za019JC9RmQ?feature=oembed",
+      "title": "At The Feet Of Jesus | Luke 8:40-56 | GFC Sunday Service Livestream - Aug 9, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/068405dd-f953-4d1b-8417-7f2ee3e9b5da/8.9.26+-+Luke+Sermon+34.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/b14e818210764b5e.webp"
+    },
+    {
+      "id": "dj2Fw_KJfx8",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/dj2Fw_KJfx8?feature=oembed",
+      "title": "| Luke  | GFC Sunday Service Livestream - Aug 23, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/f1f2d397-f082-424a-9b48-75562f5d6056/8.23.26+-+Luke+Sermon+36.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/c23686913dfeae57.webp"
+    },
+    {
+      "id": "_Ww7N81AYDQ",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/_Ww7N81AYDQ?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Sep 13, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/a557e1b8-3243-43a5-b8f2-0f07713ebd22/9.13.26+-+Luke+Sermon+39.001.jpeg",
+      "series": [
+        "luke"
+      ],
+      "localImage": "/images/sermons/671ef8a53504fdde.webp"
+    },
+    {
+      "id": "-oLvkSrJRyE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/-oLvkSrJRyE?feature=oembed",
+      "title": "Joseph: Prison to Palace | Various Texts (Genesis) | GFC Sunday Service Livestream - Jun 22, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/9ef5dbdc-2e09-4ce2-b37d-f5e8183c4deb/6.22.25+-+Joseph+Part+1.001.png",
+      "series": [
+        "joseph"
+      ],
+      "localImage": "/images/sermons/1bf10655a1cdc133.webp"
+    },
+    {
+      "id": "Kudjp8lbJKY",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Kudjp8lbJKY?feature=oembed",
+      "title": "Joseph: Easter Egg Hunt | Genesis Various Texts | GFC Sunday Service Livestream - Jun 29, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/9ef5dbdc-2e09-4ce2-b37d-f5e8183c4deb/6.22.25+-+Joseph+Part+1.001.png",
+      "series": [
+        "joseph"
+      ],
+      "localImage": "/images/sermons/1bf10655a1cdc133.webp"
+    },
+    {
+      "id": "ZIJ0bEvjPmg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/ZIJ0bEvjPmg?feature=oembed",
+      "title": "God of the Future | Daniel 2 | GFC Sunday Service Livestream - Mar 16, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/d1acb1d1-925c-4ac3-8045-1a354ba0cd10/3.16.25+-+Daniel+Sermon+2.001+2.png",
+      "series": [
+        "daniel"
+      ],
+      "localImage": "/images/sermons/12363c70c4c7bcd1.webp"
+    },
+    {
+      "id": "8KPgul9ZpGM",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/8KPgul9ZpGM?feature=oembed",
+      "title": "Kingdom Under Fire | Daniel 1 | GFC Sunday Service Livestream - Mar 9, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/6977974c-09ed-4757-beca-36521d750117/Sermon+Title+Slide-min+2.png",
+      "series": [
+        "daniel"
+      ],
+      "localImage": "/images/sermons/4b02fd9ba6419cb3.webp"
+    },
+    {
+      "id": "3TIrUp99diY",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/3TIrUp99diY?feature=oembed",
+      "title": "Worth Dying For | Daniel 3 | GFC Sunday Service Livestream - March 23, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/ada420b7-e4f8-448b-88bf-d2db709d54d5/3.23.25+-+Daniel+Sermon+3.002+2-min.png",
+      "series": [
+        "daniel"
+      ],
+      "localImage": "/images/sermons/dfa407f6c2cfe692.webp"
+    },
+    {
+      "id": "wY46SygruC0",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/wY46SygruC0?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Mar 30, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/ada420b7-e4f8-448b-88bf-d2db709d54d5/3.23.25+-+Daniel+Sermon+3.002+2-min.png",
+      "series": [
+        "daniel"
+      ],
+      "localImage": "/images/sermons/dfa407f6c2cfe692.webp"
+    },
+    {
+      "id": "kTUEgTzB-sQ",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/kTUEgTzB-sQ?feature=oembed",
+      "title": "The Writing Is On The Wall | Daniel 5 | GFC Sunday Service Livestream - Apr 13, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/19c8bf14-68db-46d5-80a2-b2ca06dd530c/4.13.25+-+Daniel+Sermon+5.001.png",
+      "series": [
+        "daniel"
+      ],
+      "localImage": "/images/sermons/7915eab1885576ae.webp"
+    },
+    {
+      "id": "deZqK_vuTaI",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/deZqK_vuTaI?feature=oembed",
+      "title": "The Lion's Den | Daniel 6 | GFC Sunday Service Livestream - April 27, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/42d8afb2-4d2d-4f9a-a427-ba15cd577f41/4.27.25+-+Daniel+Sermon+6.001-min.png",
+      "series": [
+        "daniel"
+      ],
+      "localImage": "/images/sermons/1e97054039d5b814.webp"
+    },
+    {
+      "id": "Kcb7vEUwnEg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Kcb7vEUwnEg?feature=oembed",
+      "title": "Son of Man | Daniel 7 | GFC Sunday Service Livestream - May 25, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/35034fa1-1f49-49a2-adf4-08674e9924ec/5.25.25+-+Daniel+Sermon+7.001-min.png",
+      "series": [
+        "daniel"
+      ],
+      "localImage": "/images/sermons/569dc65acde6285a.webp"
+    },
+    {
+      "id": "wOXmTQDLpbQ",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/wOXmTQDLpbQ?feature=oembed",
+      "title": "Rams & Goats & Kings... Oh My! | Daniel 8 | GFC Sunday Service Livestream - Jun 1, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/a7986c9a-f2a0-4502-b2f2-6d102725aa21/6.1.25+-+Daniel+Sermon+8.001-min.png",
+      "series": [
+        "daniel"
+      ],
+      "localImage": "/images/sermons/16e1d8eb2893143e.webp"
+    },
+    {
+      "id": "svuwec58rqA",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/svuwec58rqA?feature=oembed",
+      "title": "Seventy 7's | Daniel 9 | FC Sunday Service Livestream - Jun 8, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/a15fc746-affc-4579-9bc3-87429795eaac/6.8.25+-+Daniel+Sermon+9.001.png",
+      "series": [
+        "daniel"
+      ],
+      "localImage": "/images/sermons/97958a5aec2b0526.webp"
+    },
+    {
+      "id": "0HrSiHl3OPw",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/0HrSiHl3OPw?feature=oembed",
+      "title": "The Unseen Battle | Daniel 10 | GFC Sunday Service Livestream - Jun 15, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/37a5f653-19a8-41c1-a685-6c1ebd52d4a7/6.15.25+-+Daniel+Sermon+10.001+2.png",
+      "series": [
+        "daniel"
+      ],
+      "localImage": "/images/sermons/ddebedffb6ed1d8b.webp"
+    },
+    {
+      "id": "tH4ytc6Ff5g",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/tH4ytc6Ff5g?feature=oembed",
+      "title": "Prophecy or History? | Daniel 11 | GFC Sunday Service Livestream - Jul 13, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/d651b4d9-9e5b-429c-9025-fdd2233be5d0/7.13.25+-+Daniel+Sermon+11.001.png",
+      "series": [
+        "daniel"
+      ],
+      "localImage": "/images/sermons/a3ff3132cdd7ba61.webp"
+    },
+    {
+      "id": "2-a4iiyFHjI",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/2-a4iiyFHjI?feature=oembed",
+      "title": "Final Encouragement | Daniel 12 | GFC Sunday Service Livestream - Jul 20, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/1f1c2567-9b0d-4b7a-8012-2a3ca1d6a00d/7.20.25+-+Daniel+Sermon+12.001.png",
+      "series": [
+        "daniel"
+      ],
+      "localImage": "/images/sermons/d0692a96783a3d3d.webp"
+    },
+    {
+      "id": "RrAEadR6Kc8",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/RrAEadR6Kc8?feature=oembed",
+      "title": "Close Encounters Of The Divine | Genesis 32:22-32 | GFC Sunday Service Livestream - Jan 26, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/ee107af7-8755-483b-8e41-33ee87b91e8b/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "2025-bible-reading-plan"
+      ],
+      "localImage": "/images/sermons/0e8c22a28f4bd9ec.webp"
+    },
+    {
+      "id": "_fZgg8kCWnI",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/_fZgg8kCWnI?feature=oembed",
+      "title": "Imperishable, Undefiled, Unfading | 1 Peter 1:1-12 | GFC Sunday Service Livestream - Dec 29, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/f423d77d-dd8c-4eb0-ac6c-25b6f8ec923b/GFC+Youtube+Thumbnails+%281%29+copy+12.png",
+      "series": [
+        "1-peter"
+      ],
+      "localImage": "/images/sermons/acaa50d61844fc2c.webp"
+    },
+    {
+      "id": "bmqzcryV4VI",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/bmqzcryV4VI?feature=oembed",
+      "title": "A Command, A Request, A Sigh | 1 Peter 1:13-25 | GFC Sunday Service Livestream - Jan 5, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/43a47674-ff55-44d4-abc8-6724a5a90f54/GFC+Youtube+Thumbnails+%282%29+copy+7.png",
+      "series": [
+        "1-peter"
+      ],
+      "localImage": "/images/sermons/0e93ea8f2a1ca0fd.webp"
+    },
+    {
+      "id": "Y7uSQpg6xHM",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Y7uSQpg6xHM?feature=oembed",
+      "title": "Got Milk? | 1 Peter 2:1-12 | GFC Sunday Service Livestream - Jan 12, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/e6364912-8d01-4ec6-99ff-fd44345c05ca/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "1-peter"
+      ],
+      "localImage": "/images/sermons/c44ea7f45db5f238.webp"
+    },
+    {
+      "id": "c40qBc4x8sk",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/c40qBc4x8sk?feature=oembed",
+      "title": "Bold As A Lion | 1 Peter 2:13-25 | GFC Sunday Service Livestream - Feb 2, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/464bf62d-7e28-4acb-b81d-a09b8726cf15/GFC+Youtube+Thumbnails+%281%29.png",
+      "series": [
+        "1-peter"
+      ],
+      "localImage": "/images/sermons/eb6c382f681a6edc.webp"
+    },
+    {
+      "id": "ok3-zHnEH50",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/ok3-zHnEH50?feature=oembed",
+      "title": "Submit & Consider | 1 Peter 3:1-7 | GFC Sunday Service Livestream - Feb 9, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/5307202c-4cb9-4513-abec-b4f8867b4334/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "1-peter"
+      ],
+      "localImage": "/images/sermons/169e34f760284892.webp"
+    },
+    {
+      "id": "qt8tynzwCKE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/qt8tynzwCKE?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Feb 16, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/22c17d5b-8f17-498e-9e1b-27a2b588146f/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "1-peter"
+      ],
+      "localImage": "/images/sermons/67c769fae6eca467.webp"
+    },
+    {
+      "id": "pZb-6BxS7hA",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/pZb-6BxS7hA?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Feb 23, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/66abac84-c4c2-420c-a360-2b9cb429c3bb/GFC+Youtube+Thumbnails+%281%29.png",
+      "series": [
+        "1-peter"
+      ],
+      "localImage": "/images/sermons/bde5bc27348de703.webp"
+    },
+    {
+      "id": "5IMGlKI319I",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/5IMGlKI319I?feature=oembed",
+      "title": "The Devil's Deception | 1 Peter 5:1-11 | GFC Sunday Service Livestream - Mar 2, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/d22f8435-ecbd-495c-80e3-18759b146f65/GFC+Youtube+Thumbnails+%282%29.png",
+      "series": [
+        "1-peter"
+      ],
+      "localImage": "/images/sermons/9760dca3732b5ef2.webp"
+    },
+    {
+      "id": "dLe9AlcuwLY",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/dLe9AlcuwLY?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Sep 1, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/d3273258-9ae6-4e0f-b273-43b17a8a20b3/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "love-sex-and-dating"
+      ],
+      "localImage": "/images/sermons/1a4801ae2d3e724a.webp"
+    },
+    {
+      "id": "mmr38riD9qA",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/mmr38riD9qA?feature=oembed",
+      "title": "The Truth About Sex | Genesis 2:18-25 | GFC Sunday Service Livestream - Sep 15, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/1bcc8405-5a01-46ef-ac68-7356e15dea4c/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "love-sex-and-dating"
+      ],
+      "localImage": "/images/sermons/84a811331ba7bf6e.webp"
+    },
+    {
+      "id": "exnOZ_JlJzc",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/exnOZ_JlJzc?feature=oembed",
+      "title": "Defining Boundaries | 2 Corinthians 6:11-18 | GFC Sunday Service Livestream - Oct 6, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/32223716-e309-4a04-b022-fac0cdfc9c4f/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "love-sex-and-dating"
+      ],
+      "localImage": "/images/sermons/b5cc8a6db0052b17.webp"
+    },
+    {
+      "id": "8RqPNgfscp4",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/8RqPNgfscp4?feature=oembed",
+      "title": "Falling VS Flying | Various Texts | GFC Sunday Service Livestream - Oct 20, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/ebbdd8cd-0b0a-47bb-9c84-f0e38c2716b5/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "love-sex-and-dating"
+      ],
+      "localImage": "/images/sermons/1dc1a06f34e63942.webp"
+    },
+    {
+      "id": "WHKKlpzNocs",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/WHKKlpzNocs?feature=oembed",
+      "title": "Three Cords and a Moat | Proverbs 15:22 | GFC Sunday Service Livestream - Nov 10, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/294416b8-0be9-40dd-bcd6-4a6c0b056e1f/GFC+Youtube+Thumbnails+%281%29.png",
+      "series": [
+        "love-sex-and-dating"
+      ],
+      "localImage": "/images/sermons/8adf52080d4fbe53.webp"
+    },
+    {
+      "id": "08tMYsymtQE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/08tMYsymtQE?feature=oembed",
+      "title": "Unrealistic Expectations | John 4:1-30 | GFC Sunday Service Livestream - Dec 15, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/e2e24318-a7ee-4bff-806c-1e01cdd0178b/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "love-sex-and-dating"
+      ],
+      "localImage": "/images/sermons/537332d29c9b8588.webp"
+    },
+    {
+      "id": "ttNGuCDV2X4",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/ttNGuCDV2X4?feature=oembed",
+      "title": "Elijah - An Intro | 1 Kings 16:29 - 17:7 | GFC Sunday Service Livestream - Jul 14, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/5688a132-335c-4d7f-94b3-3cec90d37f15/GFC+Youtube+Thumbnails+%281%29.png",
+      "series": [
+        "elijah"
+      ],
+      "localImage": "/images/sermons/04aef9e1dab7e3b5.webp"
+    },
+    {
+      "id": "XdY1dspvzOQ",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/XdY1dspvzOQ?feature=oembed",
+      "title": "Elijah's Training Ground | 1 Kings 17:1-7 | GFC Sunday Service Livestream - Jul 28, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/674ed63f-74c9-4764-8023-15288859a94e/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "elijah"
+      ],
+      "localImage": "/images/sermons/7463415f599c24e6.webp"
+    },
+    {
+      "id": "PA_g3KsQlz0",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/PA_g3KsQlz0?feature=oembed",
+      "title": "Flour Power | 1 Kings 17 | GFC Sunday Service Livestream - Aug 4, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/3047abda-0b27-4164-81c5-a3c3070d75f2/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "elijah"
+      ],
+      "localImage": "/images/sermons/647470745102ad77.webp"
+    },
+    {
+      "id": "u7R-NzYwOsE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/u7R-NzYwOsE?feature=oembed",
+      "title": "The First Resurrection | 1 Kings 17:17-24 | GFC Sunday Service Livestream - Aug 11, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/d239ace7-dbd6-4b74-958f-1dc14a790650/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "elijah"
+      ],
+      "localImage": "/images/sermons/c11b73f2316ea935.webp"
+    },
+    {
+      "id": "Az7lQP_eCGA",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Az7lQP_eCGA?feature=oembed",
+      "title": "Showdown | 1 Kings 18 | GFC Sunday Service Livestream - Aug 18, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/20ea776b-e237-4bb0-a53b-fb28bcc694c4/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "elijah"
+      ],
+      "localImage": "/images/sermons/313afb04a079d7a6.webp"
+    },
+    {
+      "id": "npmFrFObJRc",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/npmFrFObJRc?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Aug 25, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/7bbdaffd-24ce-440c-8e5f-7793f3fff2b5/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "elijah"
+      ],
+      "localImage": "/images/sermons/ba6a1933621e6390.webp"
+    },
+    {
+      "id": "AypjkdFEoHI",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/AypjkdFEoHI?feature=oembed",
+      "title": "The Meltdown | 1 Kings 19:1-18 | GFC Sunday Service Livestream - Sep 8, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/1d58a65c-05f9-4c15-8411-04aa5d3dc827/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "elijah"
+      ],
+      "localImage": "/images/sermons/d46e79511a987cd5.webp"
+    },
+    {
+      "id": "jcZAZulQ61A",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/jcZAZulQ61A?feature=oembed",
+      "title": "Find the Protégé | 1 Kings 19:19-21 | GFC Sunday Service Livestream - Sep 22, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/9c52315e-c283-44d1-aa76-0b46347abd4a/GFC+Youtube+Thumbnails+%281%29.png",
+      "series": [
+        "elijah"
+      ],
+      "localImage": "/images/sermons/8893b23248fc8c39.webp"
+    },
+    {
+      "id": "LndgEuG6L88",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/LndgEuG6L88?feature=oembed",
+      "title": "End of the Road | 2 Kings 2:1-14 | GFC Sunday Service Livestream - Sep 29. 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/84b6bf4b-ea3a-441b-90ac-653623301397/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "elijah"
+      ],
+      "localImage": "/images/sermons/2961320ddeda78c2.webp"
+    },
+    {
+      "id": "QB4k1w6fcDI",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/QB4k1w6fcDI?feature=oembed",
+      "title": "The Book of Ephesians - Intro | Various Texts | GFC Sunday Service Livestream - Sep 10, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/ab851cec-79b0-46af-8ac3-83ee95008dd3/09+Week+3.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/969e3dc619712117.webp"
+    },
+    {
+      "id": "d59jnTQaiZc",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/d59jnTQaiZc?feature=oembed",
+      "title": "20/20 Vision | Ephesians 1:15-23 | GFC Sunday Service Livestream - Sep 24, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/8a0ae08a-d4b9-4e47-adfa-606cbf4c42e6/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/c2bd1a07c303ee84.webp"
+    },
+    {
+      "id": "O6NbUZoInBA",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/O6NbUZoInBA?feature=oembed",
+      "title": "Amazing Grace | Ephesians 2:1-10 | GFC Sunday Service Livestream - Oct 8, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/a1461a0d-93c8-4352-be16-22ef20cc1d35/GFC+Youtube+Thumbnails+%282%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/e93fa9d4dcc3d2d3.webp"
+    },
+    {
+      "id": "Y3mza-1uI2o",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Y3mza-1uI2o?start=1784&feature=oembed",
+      "title": "The Walls Of Hostility | Ephesians 2:11-22 | GFC Sunday Service Livestream - Oct 15, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/9cec1f00-0a73-45fa-8450-5295eda79a27/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/47864a2734dbf1e1.webp"
+    },
+    {
+      "id": "P-sLZBf9CtQ",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/P-sLZBf9CtQ?feature=oembed",
+      "title": "Mystery Revealed | Ephesians 3:1-13 | GFC Sunday Service Livestream - Oct 22, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/619925ae-123b-4936-ac1b-ccef9bb366cf/GFC+Youtube+Thumbnails+%281%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/290d6bffdf8e3b79.webp"
+    },
+    {
+      "id": "jLSdJPeWZwY",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/jLSdJPeWZwY?start=1827&feature=oembed",
+      "title": "The Pastoral Prayer | Ephesians 3:14-21 | GFC Sunday Service Livestream - Oct 29, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/81a243d1-71c4-4b6c-9f6b-253bdb57e958/GFC+Youtube+Thumbnails+%282%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/f24eaa2a39cd3b1a.webp"
+    },
+    {
+      "id": "qvMVF-iLyvY",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/qvMVF-iLyvY?feature=oembed",
+      "title": "Time To Grow Up | Ephesians 4:1-16 | GFC Sunday Service Livestream - Nov 5, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/566ffdcc-f217-47b4-aaa2-8b8809de0e9e/GFC+Youtube+Thumbnails+%283%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/1477f9e2d502e8ff.webp"
+    },
+    {
+      "id": "JwW5G_6LfU8",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/JwW5G_6LfU8?feature=oembed",
+      "title": "Making Things New | Ephesians 4:17-24 | GFC Sunday Service Livestream - Nov 12, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/26ce0207-e17c-46dd-a564-684e4f188fb6/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/f54633522ba513b2.webp"
+    },
+    {
+      "id": "JSUG6m-J7jo",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/JSUG6m-J7jo?feature=oembed",
+      "title": "D-anger | Ephesians 4:25-27 | GFC Sunday Service Livestream - Nov 19, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/b8ace0d5-cd2a-4404-92f1-e463a1dce6fa/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/5f1f26d506f9d820.webp"
+    },
+    {
+      "id": "GpctGYf3B10",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/GpctGYf3B10?feature=oembed",
+      "title": "Money Matters | Ephesians 4:28 | GFC Sunday Service Livestream - Dec 3, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/c8c07bb0-946c-4384-83ab-1dae018d10c8/GFC+Youtube+Thumbnails+%282%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/429bea384398905e.webp"
+    },
+    {
+      "id": "F_es8UqCdZg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/F_es8UqCdZg?feature=oembed",
+      "title": "Unlocking Forgiveness | Eph. 4:29-32, Matt 18:21-35 | GFC Sunday Service Livestream - Dec 17, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/6f510d4b-d5f3-49b4-9a67-269a364481ee/GFC+Youtube+Thumbnails+%285%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/b7ec70c60da89e6b.webp"
+    },
+    {
+      "id": "-qFntCDtkYM",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/-qFntCDtkYM?feature=oembed",
+      "title": "What Would Jesus Do? | Ephesians 5:1-2 | GFC Sunday Service Livestream - Jan 28, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/293a48aa-fc74-4d03-8c98-04ed44678ecb/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/69fe04804fb8efa4.webp"
+    },
+    {
+      "id": "3WuERuHgNic",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/3WuERuHgNic?feature=oembed",
+      "title": "Lord & Savior | Ephesians 5:3-16 | GFC Sunday Service Livestream - Feb 4, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/a7263de0-f06d-45fd-985b-aca7db673113/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/c2f85f16b30c07b6.webp"
+    },
+    {
+      "id": "TcnkFNQSXxs",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/TcnkFNQSXxs?feature=oembed",
+      "title": "Signs of the Spirit | Ephesians 5:17-21 | GFC Sunday Service Livestream - Feb 11, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/ce99ba8a-7ff0-4f4b-8aa4-83c0d50eb12f/GFC+Youtube+Thumbnails+%281%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/a26b69caba0597d9.webp"
+    },
+    {
+      "id": "Dv29s59qG9Y",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Dv29s59qG9Y?feature=oembed",
+      "title": "Marriage | Ephesians 5:21-33 | GFC Sunday Service Livestream - Feb 18, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/1c567050-1196-44da-b6de-edcd17fc8f5b/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/f99d296303914be8.webp"
+    },
+    {
+      "id": "DHdHt5BxBbs",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/DHdHt5BxBbs?feature=oembed",
+      "title": "The Essence of Marriage | Ephesians 5:31-32 | GFC Sunday Service Livestream - Feb 25, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/5c589fb5-6465-4581-9f44-585351be1673/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/d7930c37dcf9b460.webp"
+    },
+    {
+      "id": "xDwDUVItGxk",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/xDwDUVItGxk?feature=oembed",
+      "title": "The Priority & Purpose of Marriage | Ephesians 3:25-31 | GFC Sunday Service Livestream - Mar 3, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/8ea052d4-c03a-425e-a2a3-02f6e4164c99/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/2158ae0e78ab14b5.webp"
+    },
+    {
+      "id": "6BgMcm0v7ts",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/6BgMcm0v7ts?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Mar 10, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/6c245a40-c0f8-49f0-86ad-f2a5d4ae3f51/GFC+Youtube+Thumbnails+%281%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/51b60484cd0600fd.webp"
+    },
+    {
+      "id": "yClKAI_0ZjY",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/yClKAI_0ZjY?feature=oembed",
+      "title": "Spirit-Filled Family | Ephesians 6:1-4 | GFC Sunday Service Livestream - Mar 17, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/de63957c-e326-4cb0-ba13-6f2211457eec/GFC+Youtube+Thumbnails+%282%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/1347420353c1ef36.webp"
+    },
+    {
+      "id": "77zcpOHL72g",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/77zcpOHL72g?feature=oembed",
+      "title": "Theology of Work | Ephesians 6:5-9 | GFC Sunday Service Livestream - Mar 24, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/e7c479cd-3761-4177-93f8-1dc78fb0f169/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/dcb7ded236adf4a6.webp"
+    },
+    {
+      "id": "8j2piR__1lo",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/8j2piR__1lo?feature=oembed",
+      "title": "Spiritual Warfare: The Enemy's Playbook | Ephesians 6:10-20 | GFC Sunday Livestream - Apr 28, 2024",
+      "image": "",
+      "series": [
+        "ephesians"
+      ]
+    },
+    {
+      "id": "VR8T_YSfnP0",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/VR8T_YSfnP0?feature=oembed",
+      "title": "Spiritual Warfare: Enemy Approach | Ephesians 6:10-13 | GFC Sunday Service Livestream - May 5, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/9639fa86-1fd3-4e2b-a371-fac6c9a69e06/GFC+Youtube+Thumbnails+%282%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/f175fa6b8bb47744.webp"
+    },
+    {
+      "id": "e-pnExC4IP4",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/e-pnExC4IP4?feature=oembed",
+      "title": "Spiritual Warfare: Enemy Strategy | Ephesians 6:10-13 | GFC Sunday Service Livestream - May 12, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/3a0533d3-e345-43e3-834e-10fa90c1f9f2/GFC+Youtube+Thumbnails+%281%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/47908c038e534d82.webp"
+    },
+    {
+      "id": "ZxO4MjZ1vAk",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/ZxO4MjZ1vAk?feature=oembed",
+      "title": "The Full Armor of God | Ephesians 6:10-20 | GFC Sunday Service Livestream - May 26, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/89cf1b23-90a4-4edf-bd99-a02d51a44d97/GFC+Youtube+Thumbnails+%283%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/05f2d83e30a66233.webp"
+    },
+    {
+      "id": "Bgcbl2vr8ZE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Bgcbl2vr8ZE?feature=oembed",
+      "title": "The Belt of Truth | Ephesians 6:13-17 | GFC Sunday Service Livestream - Jun 2, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/c12f8fc9-11ad-4242-a365-85455d7495df/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/0cad2b7aa8a2fa4e.webp"
+    },
+    {
+      "id": "gfAh5kIRtbU",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/gfAh5kIRtbU?feature=oembed",
+      "title": "Breastplate of Righteousness | Ephesians 6:13-17 | GFC Sunday Service Livestream - Jun 9, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/20afe1f6-222e-4ff6-8d73-9259988aa480/GFC+Youtube+Thumbnails+%281%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/d81f28110c90e0eb.webp"
+    },
+    {
+      "id": "_x6d_-8xNsg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/_x6d_-8xNsg?feature=oembed",
+      "title": "The Readiness of the Gospel of Peace | Ephesians 6 | GFC Sunday Service Livestream - Jun 16, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/afb3e5e3-d0b4-4a15-b586-0038c2c805b4/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/90a0e6e054310d09.webp"
+    },
+    {
+      "id": "Y7mZvg9tAjo",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Y7mZvg9tAjo?feature=oembed",
+      "title": "GFC Sunday Service Livestream - June 23, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/71fedff9-5f5e-4dc7-ad3f-a604e407531f/GFC+Youtube+Thumbnails+%281%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/10d8a8d77c8a84d0.webp"
+    },
+    {
+      "id": "P52vnWlUDsc",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/P52vnWlUDsc?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Jun 30, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/09134dc0-1505-481b-8c0f-98eb15ded760/GFC+Youtube+Thumbnails+%282%29.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/9b7fbf684045f516.webp"
+    },
+    {
+      "id": "L6DoBtpKP9I",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/L6DoBtpKP9I?feature=oembed",
+      "title": "Sword of the Spirit | Ephesians 6:14-17 | GFC Sunday Service Livestream - Jul 7, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/6db9feb5-0058-4207-a2f0-8988f068a48c/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "ephesians"
+      ],
+      "localImage": "/images/sermons/b9bb23192f9966d7.webp"
+    },
+    {
+      "id": "t1n6sogC6og",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/t1n6sogC6og?feature=oembed",
+      "title": "The Story of David: Hannah's Song | 1 Samuel 1:1-11 | GFC Sunday Service Livestream - Apr 16, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/cd7b2970-bb22-4ef3-8265-9acef63f08aa/April+Week+3.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/327f6eb47e96a54d.webp"
+    },
+    {
+      "id": "Ev2cdjBl9ko",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Ev2cdjBl9ko?feature=oembed",
+      "title": "The Weight of Envy | 1 Samuel 18:1-14 | GFC Sunday Service Livestream - May 14, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/c5798936-7c9b-4450-9bc0-466b04393706/GFC+Youtube+Thumbnails+%282%29.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/97c6eb30706fc1b0.webp"
+    },
+    {
+      "id": "jgT-qgC3ZEY",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/jgT-qgC3ZEY?feature=oembed",
+      "title": "The Spiritual Slump | 1 Samuel 26-30 | GFC Sunday Service Livestream - Jun 11, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/567102b6-458c-472f-bcbc-331eb6fe7e4f/June+Week+3.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/505bd04e85a429ca.webp"
+    },
+    {
+      "id": "GKVTKE4LCwI",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/GKVTKE4LCwI?feature=oembed",
+      "title": "Search For The True King | 1 Samuel 16:1-13 | GFC Sunday Service Livestream - Apr 30, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/36ec9285-49eb-4ba3-a239-37841a35a4c0/April+Week+4.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/991df4b09fba6e07.webp"
+    },
+    {
+      "id": "uZAJ64E7EoU",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/uZAJ64E7EoU?feature=oembed",
+      "title": "The Power of Patience | 1 Samuel 24:1-22 | GFC Sunday Service Livestream - May 28, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/3eae3d59-0a1a-4cb0-a849-63fb11997e1b/May+Week+5+%281%29.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/78eeb7e7a2fe50ab.webp"
+    },
+    {
+      "id": "94hWeBq3s1w",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/94hWeBq3s1w?feature=oembed",
+      "title": "After His Heart | 1 Samuel - 2 Samuel | GFC Sunday Service Livestream - Jun 18, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/02f30a74-edbd-4a90-a4b0-a0eb0089146f/June+Week+4.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/aaf019d27fa598f7.webp"
+    },
+    {
+      "id": "Uy7XUk8IOjg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Uy7XUk8IOjg?feature=oembed",
+      "title": "The Heart of Worship | 2 Samuel 6 | GFC Sunday Service Livestream - Jul 2",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/2db5dcec-f32b-477c-8ab4-5e1575fbb581/July+Week+1.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/013f644789b5b4ed.webp"
+    },
+    {
+      "id": "WYX32JZ9laA",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/WYX32JZ9laA?feature=oembed",
+      "title": "The Gift of Kindness | 2 Samuel 9 | GFC Sunday Service Livestream - Jul 9, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/001476a1-0d62-4be8-a08e-bd81b55ffb19/July+Week+2.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/a8d8d5c39f5f03c4.webp"
+    },
+    {
+      "id": "Ese7YmW_Meo",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Ese7YmW_Meo?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Jul 16, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/d9c21c09-84de-4630-84e8-1d0a95ce2a91/July+Week+3.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/fb938b14b83f153e.webp"
+    },
+    {
+      "id": "BSwC6B6cfXQ",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/BSwC6B6cfXQ?feature=oembed",
+      "title": "Principles of Peacemaking | 1 Samuel 24 | GFC Sunday Service Livestream - Jul 23, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/adfe2f37-885a-4551-86c7-c6544839fe0b/July+Week+4.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/ada53776f29a448c.webp"
+    },
+    {
+      "id": "UqDCKqKqHNU",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/UqDCKqKqHNU?feature=oembed",
+      "title": "The Fall of a King | 2 Samuel 13 | GFC Sunday Service Livestream - Aug 13, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/8bc63f4f-25fc-49b2-9579-d8f69d09a36f/August+Week+2.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/5449362c845b86b4.webp"
+    },
+    {
+      "id": "Jb7qWAMouTo",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Jb7qWAMouTo?feature=oembed",
+      "title": "Sit at the Feet of Jesus | Luke 10:38-42 | GFC Sunday Service Livestream - Aug 20, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/d9a2519b-6aa0-433d-9396-53759790ca04/August+Week+3.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/890d4a4d0d081255.webp"
+    },
+    {
+      "id": "Uxevwq3uO1Y",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Uxevwq3uO1Y?feature=oembed",
+      "title": "Your Wish is My Command | 2 Samuel 23 | GFC Sunday Service Livestream - Aug 27, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/09105600-3b7b-419a-b95d-c462165300f4/August+Week+4.png",
+      "series": [
+        "david"
+      ],
+      "localImage": "/images/sermons/70fc660df6ddc4d4.webp"
+    },
+    {
+      "id": "ZNbGCkD40X0",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/ZNbGCkD40X0?feature=oembed",
+      "title": "The Cat's Out of the Bag | 1 Thessalonians 1 |  GFC Sunday Service Livestream - Feb 19, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/8cb510e0-cf1d-40cd-89b0-76a5f9ca6477/021923.png",
+      "series": [
+        "1-thessalonians"
+      ],
+      "localImage": "/images/sermons/972a9c892a328bbf.webp"
+    },
+    {
+      "id": "vUIQ30EZNSk",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/vUIQ30EZNSk?feature=oembed",
+      "title": "Now & Later | 1 Thessalonians 2:13-20 | GFC Sunday Service Livestream - Mar 5, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/9b96f916-0e9f-4bec-a665-b4ae887bf4f3/030523.png",
+      "series": [
+        "1-thessalonians"
+      ],
+      "localImage": "/images/sermons/b814aebfdf7b3faf.webp"
+    },
+    {
+      "id": "21RBeGx3mFI",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/21RBeGx3mFI?feature=oembed",
+      "title": "You're My Density! | 1 Thessalonians 3:1-13 | GFC Sunday Service Livestream - March 12, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/a53102b3-cad4-4228-a123-ae4d7dcb9155/031223.png",
+      "series": [
+        "1-thessalonians"
+      ],
+      "localImage": "/images/sermons/ed94e4619314406a.webp"
+    },
+    {
+      "id": "d01gi56FUoU",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/d01gi56FUoU?feature=oembed",
+      "title": "More & More | 1 Thessalonians 4:1-12 | GFC Sunday Service Livestream - Mar 19, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/ddfc9cd3-f143-4821-8bf9-c4859956d13e/031923.png",
+      "series": [
+        "1-thessalonians"
+      ],
+      "localImage": "/images/sermons/2cf7f8a0dfe4a993.webp"
+    },
+    {
+      "id": "6lsH0q0_sZ0",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/6lsH0q0_sZ0?feature=oembed",
+      "title": "I'll Be Back | 1 Thessalonians 4:13-5:11 | GFC Sunday Service Livestream - March 26, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/fef531f1-6d30-4202-8ebd-bf0b944c3afa/March+Week+4.png",
+      "series": [
+        "1-thessalonians"
+      ],
+      "localImage": "/images/sermons/43618022a6aadb4f.webp"
+    },
+    {
+      "id": "WLkJKgP-rmw",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/WLkJKgP-rmw?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Apr 2, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/58dd45b7-8511-401d-8253-de8b07815f6a/April+Week+1.png",
+      "series": [
+        "1-thessalonians"
+      ],
+      "localImage": "/images/sermons/0542f59efd1a0558.webp"
+    },
+    {
+      "id": "qoFxYPO-gjg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/qoFxYPO-gjg?feature=oembed",
+      "title": "Cinderella with an \"R\" | Ruth 1 | GFC Sunday Service Livestream - Jan 22, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/14aeb9dc-ba3e-4f1d-80e5-bb6a3cb7d530/012223.png",
+      "series": [
+        "ruth"
+      ],
+      "localImage": "/images/sermons/3bafd9702ef6c82f.webp"
+    },
+    {
+      "id": "D35kIkybojk",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/D35kIkybojk?feature=oembed",
+      "title": "The Kinsman-Redeemer | Ruth 3 | GFC Sunday Service Livestream - Feb 5, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/df1175fb-1bc8-4598-b97f-4e9c801a13bb/020523.png",
+      "series": [
+        "ruth"
+      ],
+      "localImage": "/images/sermons/6e21973aa35174fd.webp"
+    },
+    {
+      "id": "Q3xa9Kmj9EM",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Q3xa9Kmj9EM?feature=oembed",
+      "title": "Introducing Prince Charming| Ruth 2| GFC Sunday Service Livestream- Jan 29",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/47c72b70-db21-48f5-90fc-62decd01da76/GFC+Youtube+Thumbnails-4.png",
+      "series": [
+        "ruth"
+      ],
+      "localImage": "/images/sermons/caf6a62cf69f70ef.webp"
+    },
+    {
+      "id": "rsWQqTiXzIg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/rsWQqTiXzIg?start=4375&feature=oembed",
+      "title": "That's Mid! | Ruth 4 | GFC Sunday Service Livestream - Feb 12, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/26bfdf79-1f2d-41c3-a68b-1c6ce9501ae6/GFC+Youtube+Thumbnails-5.png",
+      "series": [
+        "ruth"
+      ],
+      "localImage": "/images/sermons/5cf14fd35914c782.webp"
+    },
+    {
+      "id": "9LL5ql8Bcdg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/9LL5ql8Bcdg?feature=oembed",
+      "title": "The House Church Ministry · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/f11ee035-1f93-4602-a38d-bba1093f1689/121122.png",
+      "series": [
+        "house-church"
+      ],
+      "localImage": "/images/sermons/ec65c950ca75708e.webp"
+    },
+    {
+      "id": "zXkHn5HHL0k",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/zXkHn5HHL0k?feature=oembed",
+      "title": "The House Church Ministry · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/13366e14-5c37-4546-b7be-e7d2bc929567/120422.png",
+      "series": [
+        "house-church"
+      ],
+      "localImage": "/images/sermons/88b67e6f2c2bac33.webp"
+    },
+    {
+      "id": "KdTkUhWCyF4",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/KdTkUhWCyF4?feature=oembed",
+      "title": "The House Church Ministry · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/f777b9a6-09b2-4f7c-8d67-77551f5a6206/112722.png",
+      "series": [
+        "house-church"
+      ],
+      "localImage": "/images/sermons/327781f46691cfc0.webp"
+    },
+    {
+      "id": "GgAtYiTcNp0",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/GgAtYiTcNp0?feature=oembed",
+      "title": "House Church Reflections | Various Texts | GFC Sunday Service Livestream - Sep 14, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/42b4c7fb-f1e8-40e9-b079-b0b1f17480b6/9.14.25+-+House+Church+Reflections.001-min.png",
+      "series": [
+        "house-church"
+      ],
+      "localImage": "/images/sermons/2666f12ff0fd293e.webp"
+    },
+    {
+      "id": "_8dMvlWAthw",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/_8dMvlWAthw?feature=oembed",
+      "title": "Guest Pastors · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/8af4f81d-71fc-4c7e-ab92-1c12d9a7f0d5/Water+into+WIne+%281%29.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/cdb6639e05d7941f.webp"
+    },
+    {
+      "id": "6elDhdohGLE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/6elDhdohGLE?feature=oembed",
+      "title": "Guest Pastors · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/0f5daf3c-f06e-49b1-b822-7880a52dbda6/Water+into+WIne+%283%29.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/3807b374fb8d3fcb.webp"
+    },
+    {
+      "id": "6koC1ZVhpKg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/6koC1ZVhpKg?feature=oembed",
+      "title": "Guest Pastors · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/7cbe696e-649b-40d2-933c-f9b620c0560e/Water+into+WIne+%285%29.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/0627e77d5adbae6a.webp"
+    },
+    {
+      "id": "bDLtPx2rn2s",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/bDLtPx2rn2s?feature=oembed",
+      "title": "Guest Pastors · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/4efe058c-76df-477a-b988-d4c91d4b6a87/Water+into+WIne+%282%29.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/df247994a4cb7c6d.webp"
+    },
+    {
+      "id": "_2n2HP3BLcY",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/_2n2HP3BLcY?feature=oembed",
+      "title": "Guest Pastors · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/c6cbfe86-e430-457a-9261-46159584f3ff/Water+into+WIne+%284%29.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/594802f860715868.webp"
+    },
+    {
+      "id": "ujDsfqpMqHg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/ujDsfqpMqHg?feature=oembed",
+      "title": "Guest Pastors · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/8d14c989-e8c1-48ed-983f-e8c6b9b23741/Water+into+WIne+%287%29.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/b8043743e6180f3d.webp"
+    },
+    {
+      "id": "q1OsoilrUS4",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/q1OsoilrUS4?feature=oembed",
+      "title": "Guest Pastors · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/1db1e514-fff6-4766-a2d6-184818aa6587/Water+into+WIne.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/0f36a0666cfa9e89.webp"
+    },
+    {
+      "id": "wHsqYQRSj1Q",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/wHsqYQRSj1Q?feature=oembed",
+      "title": "Family On Mission | John 13:34-35 | GFC Sunday Service Livestream - Oct 1, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/edeca100-51f0-41b0-9c39-ba99ed5b03b8/GFC+Youtube+Thumbnails+%284%29.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/f4223967763185f9.webp"
+    },
+    {
+      "id": "DHPgS2gNtf8",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/DHPgS2gNtf8?feature=oembed",
+      "title": "The Lord Came Down | Genesis 11 | GFC Sunday Service Livestream - Dec 10, 2023",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/ec5dfca4-3099-4d32-9ce6-e0c247bb6e8f/GFC+Youtube+Thumbnails+%283%29.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/8728f7ee551c68f7.webp"
+    },
+    {
+      "id": "FMn-lg_3K70",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/FMn-lg_3K70?feature=oembed",
+      "title": "Faith In the Unseen | Hebrews 11:1-2 | GFC Sunday Service Livestream - Apr 7, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/d7ccfb85-7df9-46a6-be6f-f98532f2375e/GFC+Youtube+Thumbnails+%282%29.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/a7cae0de7e6e44e6.webp"
+    },
+    {
+      "id": "qrT5zX43huQ",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/qrT5zX43huQ?feature=oembed",
+      "title": "Grace, Thanks, & Obey | 1 Timothy 1:14 | GFC Sunday Service Livestream - Apr 14, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/2b363363-6ea0-4028-bf74-a03ad35b49d8/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/98b18736693becb9.webp"
+    },
+    {
+      "id": "xa6EuolyznY",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/xa6EuolyznY?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Apr 21, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/0baa69fa-87c6-4574-bb7b-e9fbbc1a5772/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/5ee437345605a3e7.webp"
+    },
+    {
+      "id": "0OPfsKedklM",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/0OPfsKedklM?feature=oembed",
+      "title": "Jesus and the Temple | Matthew 21:12-14 | GFC Sunday Service Livestream - Jul 21, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/167a5520-dbd5-4e82-b255-9cd8d39bc3e8/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/54a0b37e042e8beb.webp"
+    },
+    {
+      "id": "m7peT5YJwuE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/m7peT5YJwuE?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Oct 13, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/781b7b77-a3f7-400b-80e1-3dcc0921d4a7/GFC+Youtube+Thumbnails+%281%29.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/6e47d0d76de1771e.webp"
+    },
+    {
+      "id": "CRhotj_RDEE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/CRhotj_RDEE?feature=oembed",
+      "title": "Living By Faith | Hebrews 11:1-16 | GFC Sunday Service Livestream - Oct 27, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/bb7e3738-8331-4f6c-8b59-ebf28142596e/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/011ffcd9992cb91a.webp"
+    },
+    {
+      "id": "ceCo8cBxeuY",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/ceCo8cBxeuY?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Nov 17, 2024",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/abd0052c-00cb-4d50-a388-f86be07e04d8/GFC+Youtube+Thumbnails+%282%29.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/066903a9b89ae489.webp"
+    },
+    {
+      "id": "Gj9DguuUl9k",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/Gj9DguuUl9k?feature=oembed",
+      "title": "That One Necessary Thing | Luke 10:38-42 | GFC Sunday Service Livestream - July 27, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/dc8aa0b1-40ed-47fc-93f5-f917a668e779/joesuhyoutube.jpg",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/c42dab07f3631f48.webp"
+    },
+    {
+      "id": "6_bUdhCSQVk",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/6_bUdhCSQVk?feature=oembed",
+      "title": "The Words That Dwell In Us | Proverbs 4:20-23 | GFC Sunday Service Livesteram - Aug 3, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/36af266f-8f79-44a5-9896-54aa223415a5/seankim2025.jpg",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/48128db69d4a0021.webp"
+    },
+    {
+      "id": "1lRxLiISmDQ",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/1lRxLiISmDQ?feature=oembed",
+      "title": "Knowing Context | Acts 2:29-47 | GFC Sunday Service Livestream - Oct 12, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/c0ad014d-c01d-43ac-8d57-86a191055c7c/jameslee1+copy.jpg",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/3f666dd6235fcb97.webp"
+    },
+    {
+      "id": "ieWDWO18ziE",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/ieWDWO18ziE?feature=oembed",
+      "title": "A Culture of Honor | Malachi 1:6-11 | GFC Sunday Service Livestream - Oct 26, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/9ebadfe7-4789-44a9-b1c7-e85366a2cc10/stephenchong1.jpg",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/d3192e5cd5e233bb.webp"
+    },
+    {
+      "id": "4bBRB5GI2Hw",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/4bBRB5GI2Hw?feature=oembed",
+      "title": "Faith Like A Beggar | Luke 18:31-43 | GFC Sunday Service LIvestream - Nov 16, 2025",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/0fbeeb22-5532-41bc-bf65-17a30e220354/kevinleong1.jpg",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/298b259596402278.webp"
+    },
+    {
+      "id": "4FtO6aQo9dQ",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/4FtO6aQo9dQ?feature=oembed",
+      "title": "One Another | John 13: 34-35 | GFC Sunday Service Livestream - Jan 4, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/b885da3c-161c-4fe6-b117-b5a1cbd10ecd/Slide1+2.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/c32a4bf1069bb391.webp"
+    },
+    {
+      "id": "CAsSbx9NPwI",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/CAsSbx9NPwI?feature=oembed",
+      "title": "GFC Sunday Service Livestream - Mar 22, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/4329455c-3307-4a47-bddb-369ee98c9554/pastorericdshin.jpg",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/43d1e9888c015969.webp"
+    },
+    {
+      "id": "oTsYFBqj0Q4",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/oTsYFBqj0Q4?feature=oembed",
+      "title": "Faith Off The Boat | Matthew 14:22-33 | GFC Sunday Service Livestream - Jul 19, 2026",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/7126880e-5f4d-42b5-b350-c9035532fa85/Matthew+14_22-33+%5BFINAL%5D.001.png",
+      "series": [
+        "guest-pastors"
+      ],
+      "localImage": "/images/sermons/0a380252224517ca.webp"
+    },
+    {
+      "id": "audio-152",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/56a7121eb209430da46dcade/1453789894799/1.24.16+John+1.1-5.mp3",
+      "title": "It's All About the Logos! - John 1:1-5 (1.24.16)",
+      "author": "Timothy Yu",
+      "duration": 2863000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-153",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/570b16f9f699bb7295b76bf6/1460344731283/2016.01.31+-+An+Unexpected+Christmas+Movie.mp3",
+      "title": "2016.01.31 - An Unexpected Christmas Movie - John 1:6-18 (1.31.16)",
+      "author": "Timothy Yu",
+      "duration": 2786000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-154",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/56b987039f726691d3bb4950/1454999498219/2016.02.07+-+Trailer+of+the+voice+and+The+Word.m4a",
+      "title": "A Trailer of the Voice and The Word - John 1:19-34 (2.7.16)",
+      "author": "Timothy Yu",
+      "duration": 2562000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-155",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/56cc036627d4bdfc9549a258/1456210887454/2016.02.14+-+The+Dream+Team.MP3",
+      "title": "The Dream Team - John 1:35-51 (2.14.16)",
+      "author": "Timothy Yu",
+      "duration": 3034000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-156",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/56cc03f1d210b842c7276735/1456211006234/2016.02.21+-+Water+to+Wine%21.MP3",
+      "title": "Water to Wine! - John 2:1-11 (2.21.16)",
+      "author": "Timothy Yu",
+      "duration": 2703000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-157",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/56dd011145bf214a0b408754/1457324413648/2016.02.28+-+Righteous+Indignation.MP3",
+      "title": "Righteous Indignation - John 2:12-25 (2.28.16)",
+      "author": "Timothy Yu",
+      "duration": 2720000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-158",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/56dd019f40261df5707e7c12/1457324544685/2016.03.06+-+Nick+at+Night.MP3",
+      "title": "Nick at Night - John 3:1-16 (3.6.16)",
+      "author": "Timothy Yu",
+      "duration": 2480000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-159",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/570b14c401dbae3cd41c2990/1460344074257/2016.03.13+Center+Stage.MP3",
+      "title": "Center Stage - John 3:17-36 (3.13.16)",
+      "author": "Timothy Yu",
+      "duration": 2545000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-160",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/570b1427b654f9c14fbf9456/1460343923572/2016.03.20+Be+the+Donkey.MP3",
+      "title": "Be the Donkey - Matthew 21:1-11 (3.20.16)",
+      "author": "Timothy Yu",
+      "duration": 2799000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-161",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/570b154301dbae3cd41c2cbe/1460344207630/2016.04.03+To+Know+Jesus.MP3",
+      "title": "To Know Jesus - John 4:1-42 (4.3.16)",
+      "author": "Timothy Yu",
+      "duration": 2782000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-162",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/570b162486db439cd76eeead/1460344429638/2016.04.10+So+Close+and+Still...So+Far.MP3",
+      "title": "So Close and Still...So Far - John 4:43-54 (4.10.16)",
+      "author": "Timothy Yu",
+      "duration": 2643000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-163",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/57b0a6ca725e25de8d1af8e7/1471194912275/2016.04.17+The+Race+for+a+Cure.MP3",
+      "title": "The Race for a Cure - John 5:1-9 (4.17.16)",
+      "author": "Timothy Yu",
+      "duration": 2708000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-164",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/57b0a74a1b631b641d069119/1471195040600/2016.04.24+Multiplication+by+Subtraction.MP3",
+      "title": "Multiplication by Subtraction - John 6:1-14 (4.24.16)",
+      "author": "Timothy Yu",
+      "duration": 2779000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-165",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/57b0a7b76b8f5be1f8ac9a9e/1471195150060/2016.05.01+Master+of+Storms.MP3",
+      "title": "Master of Storms - John 6:15-21 (5.1.16)",
+      "author": "Timothy Yu",
+      "duration": 2588000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-166",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/57b0a847440243d6c7edf8ab/1471195295618/2016.05.08+Bread+of+Life.MP3",
+      "title": "Bread of Life - John 6:25-35 (5.8.16)",
+      "author": "Timothy Yu",
+      "duration": 2862000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-167",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/57b0ae28e3df28c4ce9ffbf2/1471196830512/2016.05.15+Fishers+of+Men.MP3",
+      "title": "Fishers of Men - Luke 5:1-11 (5.15.16)",
+      "author": "Timothy Yu",
+      "duration": 2833000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-168",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/57def375e58c62e05ffffe27/1474229168926/2016.05.29+Timing+is+Everything.MP3",
+      "title": "Timing is Everything - John 7:1-13 (5.29.16)",
+      "author": "Timothy Yu",
+      "duration": 2872000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-169",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/57def3c6e58c62e05f0000fb/1474229239078/2016.06.05+I+AM+the+Light.MP3",
+      "title": "I Am the Light - John 7:14-8:13 (6.5.16)",
+      "author": "Timothy Yu",
+      "duration": 2592000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-170",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/5828dd763e00be54521c0b08/1479073163935/2016.09.18+The+Rising+Dead.m4a",
+      "title": "The Rising Dead - John 11:1-44 (9.18.16)",
+      "author": "Timothy Yu",
+      "duration": 2699000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "audio-171",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/5828dde96a49634bd857c1e1/1479073299304/2016.09.25+The+Heart+of+Worship.m4a",
+      "title": "Heart of Worship - John 11:45-12:11 (9.25.16)",
+      "author": "Timothy Yu",
+      "duration": 2587000,
+      "image": "",
+      "series": [
+        "john"
+      ]
+    },
+    {
+      "id": "sXVvUMI01DI",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/sXVvUMI01DI?feature=oembed",
+      "title": "The Gospel Of John · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/3ab9fbb0-9435-4241-8bf7-386b9c64cc7c/Beige+Grey+Blogger+YouTube+Channel+Art+%283%29.png",
+      "series": [
+        "john",
+        "1-corinthians"
+      ],
+      "localImage": "/images/sermons/ae3d63520b6d1d41.webp"
+    },
+    {
+      "id": "3LgZTaDC1Zg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/3LgZTaDC1Zg?start=1833&feature=oembed&start=1833",
+      "title": "The Gospel Of John · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/7641e265-87b0-468e-8ad9-b24a38c4f471/Beige_Grey_Blogger_YouTube_Channel_Art_4.png",
+      "series": [
+        "john",
+        "1-corinthians"
+      ],
+      "localImage": "/images/sermons/3119da572429d564.webp"
+    },
+    {
+      "id": "dzlBPxFmgWw",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/dzlBPxFmgWw?feature=oembed",
+      "title": "The Gospel Of John · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/637ffb2b-93ed-46f4-be9a-471eabc036df/Beige+Grey+Blogger+YouTube+Channel+Art+%281%29.png",
+      "series": [
+        "john",
+        "1-corinthians"
+      ],
+      "localImage": "/images/sermons/a11a075f0451513b.webp"
+    },
+    {
+      "id": "FTZ9lmfCXAs",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/FTZ9lmfCXAs?feature=oembed",
+      "title": "The Gospel Of John · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/c61971a4-3364-4925-b249-03196a097e68/Spy_July.png",
+      "series": [
+        "john",
+        "1-corinthians"
+      ],
+      "localImage": "/images/sermons/b8e24b92753f573d.webp"
+    },
+    {
+      "id": "xzsh7wYUGOA",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/xzsh7wYUGOA?feature=oembed",
+      "title": "The Gospel Of John · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/9986995c-b706-4bc6-93c2-017917dd454c/Beige+Grey+Blogger+YouTube+Channel+Art+%283%29.png",
+      "series": [
+        "john",
+        "1-corinthians"
+      ],
+      "localImage": "/images/sermons/7ee8b4801cdaf118.webp"
+    },
+    {
+      "id": "SaknIMd5MbA",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/SaknIMd5MbA?feature=oembed",
+      "title": "The Gospel Of John · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/cf6bd9ab-ea35-4f5b-8361-55b0cefd0781/Beige+Grey+Blogger+YouTube+Channel+Art-2.png",
+      "series": [
+        "john",
+        "1-corinthians"
+      ],
+      "localImage": "/images/sermons/a668972906fc658c.webp"
+    },
+    {
+      "id": "sZ1m5XVRobs",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/sZ1m5XVRobs?feature=oembed",
+      "title": "The Gospel Of John · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/790f4861-42ed-4394-a652-6814dd6c0bae/Beige+Grey+Blogger+YouTube+Channel+Art-3.png",
+      "series": [
+        "john",
+        "1-corinthians"
+      ],
+      "localImage": "/images/sermons/8b853cda8fc6ddfb.webp"
+    },
+    {
+      "id": "KcZ5eN5vUdg",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/KcZ5eN5vUdg?feature=oembed",
+      "title": "The Gospel Of John · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/06cb4ed7-1efb-4c91-8396-ee1efe9a4038/Beige+Grey+Blogger+YouTube+Channel+Art+%282%29.png",
+      "series": [
+        "john",
+        "1-corinthians"
+      ],
+      "localImage": "/images/sermons/b9cd7ffcaba76ddd.webp"
+    },
+    {
+      "id": "rOQWfp_R28c",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/rOQWfp_R28c?feature=oembed",
+      "title": "The Gospel Of John · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/bd1f3a6c-4087-4912-b498-d1fbedf7860c/Beige+Grey+Blogger+YouTube+Channel+Art-4.png",
+      "series": [
+        "john",
+        "1-corinthians"
+      ],
+      "localImage": "/images/sermons/4e6513fdf6c91ad0.webp"
+    },
+    {
+      "id": "tKI12VeuIR4",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/tKI12VeuIR4?feature=oembed",
+      "title": "The Gospel Of John · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/5b123b1b-52c3-412c-a6dd-36a27c1090ff/Beige+Grey+Blogger+YouTube+Channel+Art-5.png",
+      "series": [
+        "john",
+        "1-corinthians"
+      ],
+      "localImage": "/images/sermons/523987475939b505.webp"
+    },
+    {
+      "id": "CUGivmTJuIs",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/CUGivmTJuIs?feature=oembed",
+      "title": "The Book Of Galatians · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/f05b7eaf-ac13-47e8-9e90-56a9b3f51fe0/Beige+Grey+Blogger+YouTube+Channel+Art.png",
+      "series": [
+        "galatians"
+      ],
+      "localImage": "/images/sermons/338bcd5aad8d407a.webp"
+    },
+    {
+      "id": "tUZC8TtpkPs",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/tUZC8TtpkPs?start=2620&feature=oembed&start=2620",
+      "title": "The Book Of Galatians · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/6e6c1835-e2af-455f-84e7-ffe8efc187f5/Beige+Grey+Blogger+YouTube+Channel+Art-8.png",
+      "series": [
+        "galatians"
+      ],
+      "localImage": "/images/sermons/320a7e4ad3594332.webp"
+    },
+    {
+      "id": "YJ5au8mKBRk",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/YJ5au8mKBRk?feature=oembed",
+      "title": "The Book Of Galatians · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/ddad7faa-05c1-4725-9b35-852836d6ee74/Beige+Grey+Blogger+YouTube+Channel+Art-10.png",
+      "series": [
+        "galatians"
+      ],
+      "localImage": "/images/sermons/5b36a2707d383416.webp"
+    },
+    {
+      "id": "UXuka_JYgtc",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/UXuka_JYgtc?feature=oembed",
+      "title": "The Book Of Galatians · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/7e94924e-5bbe-47c1-b6df-8cac54b36b48/GFC+Youtube+Thumbnails.png",
+      "series": [
+        "galatians"
+      ],
+      "localImage": "/images/sermons/859f2e5494ea6e46.webp"
+    },
+    {
+      "id": "nWVgYoKO66A",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/nWVgYoKO66A?start=3206&feature=oembed&start=3206",
+      "title": "The Book Of Galatians · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/fc5be06d-274d-4d59-a00c-5b1b68b9079f/Awkward+Encounters.png",
+      "series": [
+        "galatians"
+      ],
+      "localImage": "/images/sermons/f386375971ccc372.webp"
+    },
+    {
+      "id": "JmZ_sW-ZPbo",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/JmZ_sW-ZPbo?start=4&feature=oembed&start=4",
+      "title": "The Book Of Galatians · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/02dcf920-a3e0-45e6-8550-2571a1024052/Beige+Grey+Blogger+YouTube+Channel+Art.png",
+      "series": [
+        "galatians"
+      ],
+      "localImage": "/images/sermons/d583cb8a2c8f3d09.webp"
+    },
+    {
+      "id": "-EULB5tEKp0",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/-EULB5tEKp0?feature=oembed",
+      "title": "The Book Of Galatians · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/e73d73d2-e8d7-413c-8b6c-552085e2bbaa/GFC+Youtube+Thumbnails-2.png",
+      "series": [
+        "galatians"
+      ],
+      "localImage": "/images/sermons/5c5469fd485d67f9.webp"
+    },
+    {
+      "id": "3ykMpexj1EY",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/3ykMpexj1EY?feature=oembed",
+      "title": "The Book Of Galatians · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/1265309f-4ce5-4751-ac62-81a0f76b40d0/111322.png",
+      "series": [
+        "galatians"
+      ],
+      "localImage": "/images/sermons/44885979abc84cd9.webp"
+    },
+    {
+      "id": "yR0idBxjq1c",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/yR0idBxjq1c?feature=oembed",
+      "title": "The Book Of Galatians · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/18ae627c-8b73-422b-abec-46cd42825865/GFC+Youtube+Thumbnails-3.png",
+      "series": [
+        "galatians"
+      ],
+      "localImage": "/images/sermons/8c6697b61dd14d76.webp"
+    },
+    {
+      "id": "audio-191",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/5a7e32c7e2c48392fb525c01/1518220044155/20180121+112958.m4a",
+      "title": "Our Joy, His Worship - Colossians 1:9-14 (1.21.18)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "colossians"
+      ]
+    },
+    {
+      "id": "audio-192",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/5a7e3336f9619ab21fa9a52c/1518220157959/20180128+112554.m4a",
+      "title": "The Greatest Question - Colossians 1:15-19 (1.28.18)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "colossians"
+      ]
+    },
+    {
+      "id": "audio-193",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/5a7e33a0c83025378b650181/1518220283849/20180204+112628.m4a",
+      "title": "The Great Divide - Colossians 1:20-23 (2.4.18)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "colossians"
+      ]
+    },
+    {
+      "id": "gvJd05xz8XU",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/gvJd05xz8XU?start=3176&feature=oembed&start=3176",
+      "title": "Controversial Topics · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/8c283130-6acd-4a30-96fb-51ab5acdd4e9/Beige+Grey+Blogger+YouTube+Channel+Art+%281%29.png",
+      "series": [
+        "controversial-topics"
+      ],
+      "localImage": "/images/sermons/373c4b34e104eb04.webp"
+    },
+    {
+      "id": "audio-195",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/58979f002994ca37c62b9dcd/1486331707862/1.29.17+Sexual+Purity+-+Song+of+Solomon.m4a",
+      "title": "Trending: Sexual Purity (Building the Great Wall) - Song of Solomon (1.29.17)",
+      "author": "Timothy Yu",
+      "duration": 3592000,
+      "image": "",
+      "series": [
+        "controversial-topics"
+      ]
+    },
+    {
+      "id": "audio-196",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/58a0ab561e5b6c463491ea21/1486924755665/20170205+112420.m4a",
+      "title": "Trending: Abortion - James and Proverbs (2.5.17)",
+      "author": "Timothy Yu",
+      "duration": 3572000,
+      "image": "",
+      "series": [
+        "controversial-topics"
+      ]
+    },
+    {
+      "id": "audio-197",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/58a9e6a8e58c62fa40719579/1487529717475/20170212+112906.m4a",
+      "title": "Trending: Relativism (2.12.17)",
+      "author": "Timothy Yu",
+      "duration": 3051000,
+      "image": "",
+      "series": [
+        "controversial-topics"
+      ]
+    },
+    {
+      "id": "yXn2C2hGaCo",
+      "kind": "video",
+      "src": "https://www.youtube.com/embed/yXn2C2hGaCo?feature=oembed",
+      "title": "Father’S Day · Sermon video",
+      "image": "https://images.squarespace-cdn.com/content/v1/56a3b643fb36b138610b006f/fa0db391-e5ca-4d2c-8c8e-ae6f23d75ae6/Beige+Grey+Blogger+YouTube+Channel+Art+%282%29.png",
+      "series": [
+        "fathers-day"
+      ],
+      "localImage": "/images/sermons/a9a87007130e6d9f.webp"
+    },
+    {
+      "id": "audio-199",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/5a2da4f9ec212d8655de9208/1512940970775/New+Recording+59.m4a",
+      "title": "The Greatest Party Ever - Luke 5:27-32, John 2:1-11 (12.10.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "party-time"
+      ]
+    },
+    {
+      "id": "audio-200",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/59877ce4893fc0cfbc526787/1502051621376/20170709+112847.m4a",
+      "title": "SOTM: White Noise - Matthew 5:8 (7.9.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    },
+    {
+      "id": "audio-201",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/59877daccd39c319ede19c11/1502051853308/20170716+112256.m4a",
+      "title": "SOTM: The Teacher and the Tramp - Matthew 5:3, Luke 7 (7.16.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    },
+    {
+      "id": "audio-202",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/59877ede37c5815a8220c396/1502052139439/20170723+112849.m4a",
+      "title": "SOTM: Inside Out - Matthew 5:3, Luke 7 (7.23.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    },
+    {
+      "id": "audio-203",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/59b5a0339f7456da59b97da7/1505075301720/20170806+112723.m4a",
+      "title": "SOTM: The Empty Jar - Matthew 5:6, Luke 14:16-24 (8.6.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    },
+    {
+      "id": "audio-204",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/59b5a0c3cd39c304a146ee03/1505075471915/20170813+112751.m4a",
+      "title": "SOTM: #lookatme - Matthew 5:8 (8.13.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    },
+    {
+      "id": "audio-205",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/59b5a1dae45a7cdb519e2301/1505075738539/20170820+113128.m4a",
+      "title": "SOTM: Salt & Light: Are You Lit? - Matthew 5:13-16 (8.20.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    },
+    {
+      "id": "audio-206",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/59b5a270cf81e016621cea73/1505075888007/20170827+112122.m4a",
+      "title": "SOTM: D-Anger - Matthew 5:21-26 (8.27.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    },
+    {
+      "id": "audio-207",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/59b5a31b2278e7557ecae951/1505076062690/20170903+112444.m4a",
+      "title": "SOTM: Forgiveness is Freedom - Matthew 5:18 (9.3.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    },
+    {
+      "id": "audio-208",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/59b5a3b6cf81e016621cfcb7/1505076191373/20170910+112827.m4a",
+      "title": "SOTM: Love v. Lust - Matthew 5:27-30 (9.10.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    },
+    {
+      "id": "audio-209",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/5a7e351be4966bdad563cbce/1518220653631/20170917+112523.m4a",
+      "title": "SOTM: Liar Liar, Pants on Fire - Matthew 5:31-37 (9.17.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    },
+    {
+      "id": "audio-210",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/5a7e3639c83025378b65956d/1518220944859/20170924+112119.m4a",
+      "title": "SOTM: Call Me Daddy - Matthew 6:9-13 (9.24.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    },
+    {
+      "id": "audio-211",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/5a7e36c8e2c48392fb533b67/1518221073454/20171105+113213.m4a",
+      "title": "SOTM: Forgiveness, To and Through - Matthew 6:9-13 (11.3.2017)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    },
+    {
+      "id": "audio-212",
+      "kind": "audio",
+      "src": "https://static1.squarespace.com/static/56a3b643fb36b138610b006f/t/5a7e37a553450a3d5984c389/1518221290220/20171112+113204.m4a",
+      "title": "SOTM: Off Ramp - Matthew 6:9-13; Luke 4:1-13 (11.12.17)",
+      "author": "Timothy Yu",
+      "duration": 0,
+      "image": "",
+      "series": [
+        "sermon-on-the-mount"
+      ]
+    }
+  ],
+  "categoryLinks": {
+    "topical": [
+      "http://www.gfchouse.com/listen/controversial-topics",
+      "http://www.gfchouse.com/listen/sermon-on-the-mount",
+      "/listen/elijah",
+      "/joseph",
+      "https://www.gfchouse.com/listen/fathers-day",
+      "https://gfchouse.com/listen/house-church",
+      "/listen/love-sex-and-dating",
+      "http://www.gfchouse.com/listen/party-time",
+      "https://www.gfchouse.com/listen/david",
+      "/listen/2025-bible-reading-plan"
+    ],
+    "by-book": [
+      "https://www.gfchouse.com/listen/john",
+      "https://gfchouse.com/listen/1-corinthians",
+      "https://www.gfchouse.com/listen/ephesians",
+      "/listen/luke",
+      "http://www.gfchouse.com/listen/galatians",
+      "http://www.gfchouse.com/listen/colossians",
+      "/listen/1-peter",
+      "/listen/1-thessalonians",
+      "https://gfchouse.com/listen/ruth",
+      "/listen/daniel"
+    ]
+  }
+}
