@@ -1,5 +1,7 @@
 # God’s Family Church
 
+Preview hosted here https://jkjoeeekim.github.io/GFC
+
 A modular React + TypeScript + Vite redesign of [gfchouse.com](https://www.gfchouse.com/), built with the installed scroll-craft skill. The primary visitor action is finding a house church.
 
 ## Run
