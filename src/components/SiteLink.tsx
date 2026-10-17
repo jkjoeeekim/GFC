@@ -12,5 +12,6 @@ export function SiteLink({ href = '/', onClick, ...props }: AnchorHTMLAttributes
       navigate(url.pathname + url.search + url.hash)
     }
   }
-  return <a href={href} onClick={follow} {...props} />
+  const rendered = href.startsWith('/') && !href.startsWith('//') ? import.meta.env.BASE_URL + href.slice(1) : href
+  return <a href={rendered} onClick={follow} {...props} />
 }

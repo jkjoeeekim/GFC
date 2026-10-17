@@ -35,4 +35,4 @@ function Site() {
     </Suspense>
     <Footer /></>
 }
-export default function App({ content }: { content?: ContentOverrides }) { return <ContentProvider value={content}><BrowserRouter><Site /></BrowserRouter></ContentProvider> }
+export default function App({ content }: { content?: ContentOverrides }) { return <ContentProvider value={content}><BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '') || '/'}><Site /></BrowserRouter></ContentProvider> }
