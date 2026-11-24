@@ -1,9 +1,10 @@
 import { useEffect, useRef, useState } from 'react'
 import { useLocation } from 'react-router-dom'
-import { ArrowUpRight, ChevronDown, Menu, X } from 'lucide-react'
+import { ArrowUpRight, ChevronDown, Menu, UserRound, X } from 'lucide-react'
 import { SiteLink } from '../SiteLink'
 import { Brand } from './Brand'
 import { navLinks, aboutLinks } from '../../content/navigation'
+import { accountsEnabled } from '../../backend/config'
 
 export function Header() {
   const [open, setOpen] = useState(false)
@@ -39,6 +40,7 @@ export function Header() {
         </details>
         {navLinks.map(([label, href]) => <SiteLink key={href} href={href} aria-current={location.pathname === href ? 'page' : undefined}>{label}</SiteLink>)}
       </nav>
+      {accountsEnabled && <SiteLink href="/account" className="icon-button header-account" aria-label="Your account" aria-current={location.pathname.startsWith('/account') ? 'page' : undefined}><UserRound size={18} /></SiteLink>}
       <SiteLink href="/house-church" className="button button-small header-cta">Find a house church <ArrowUpRight size={15} /></SiteLink>
       <button className="icon-button menu-toggle" aria-label={open ? 'Close navigation' : 'Open navigation'} aria-expanded={open} aria-controls="mobile-navigation" onClick={() => setOpen(!open)}>{open ? <X /> : <Menu />}</button>
     </div>

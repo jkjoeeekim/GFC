@@ -1,0 +1,106 @@
+rules_version = '2';
+
+// Server-side access rules. The website's checks are for convenience; these are what protect the data.
+// Deploy with `npm run deploy:rules`. Tested by `npm run test:rules`.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() { return request.auth != null; }
+    function profile(uid) { return get(/databases/$(database)/documents/users/$(uid)).data; }
+    function isAdmin() {
+      return signedIn()
+        && exists(/databases/$(database)/documents/users/$(request.auth.uid))
+        && profile(request.auth.uid).role == 'admin'
+        && profile(request.auth.uid).status == 'active';
+    }
+    function validName(name) { return name is string && name.trim().size() > 0 && name.size() <= 80; }
+    function onlyChanged(keys) { return request.resource.data.diff(resource.data).affectedKeys().hasOnly(keys); }
+
+    // users/{uid}: { phone, name, role: 'member' | 'admin', status: 'active' | 'removed', createdAt, updatedAt }
+    match /users/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+
+      // Anyone who signed in with a phone number can create their own member profile, once.
+      allow create: if signedIn() && request.auth.uid == uid
+        && request.resource.data.keys().hasOnly(['phone', 'name', 'role', 'status', 'createdAt', 'updatedAt'])
+        && request.auth.token.phone_number is string
+        && request.resource.data.phone == request.auth.token.phone_number
+        && validName(request.resource.data.name)
+        && request.resource.data.role == 'member'
+        && request.resource.data.status == 'active'
+        && request.resource.data.createdAt == request.time
+        && request.resource.data.updatedAt == request.time;
+
+      allow update: if signedIn() && request.resource.data.updatedAt == request.time && (
+        // People may change their own name while their account is active.
+        (request.auth.uid == uid && resource.data.status == 'active'
+          && onlyChanged(['name', 'updatedAt']) && validName(request.resource.data.name))
+        // Admins may change another person's role and status, never their own.
+        || (isAdmin() && request.auth.uid != uid
+          && onlyChanged(['role', 'status', 'updatedAt'])
+          && request.resource.data.role in ['member', 'admin']
+          && request.resource.data.status in ['active', 'removed'])
+      );
+
+      // Removing a person sets status to 'removed' so they cannot simply sign up again.
+      allow delete: if false;
+    }
+
+    // content/site: { fields: { '<editable field path>': string }, updatedAt, updatedBy }
+    // Keep the field list and limits in sync with src/content/editableFields.ts (checked by the rules test).
+    match /content/site {
+      function textOk(f, key, max) { return !(key in f) || (f[key] is string && f[key].trim().size() > 0 && f[key].size() <= max); }
+      function urlOk(f, key) { return !(key in f) || (f[key] is string && f[key].size() <= 500 && f[key].matches('https?://[^\\s]+')); }
+      function imageOk(f, key) { return !(key in f) || (f[key] is string && f[key].size() <= 500 && f[key].matches('(/[^/\\\\\\s][^\\s\\\\]*|https?://[^\\s]+)')); }
+      function emailOk(f, key) { return !(key in f) || (f[key] is string && f[key].size() <= 160 && f[key].matches('[^\\s@]+@[^\\s@]+\\.[^\\s@]+')); }
+
+      allow read: if true;
+      allow write: if isAdmin()
+        && request.resource.data.keys().hasOnly(['fields', 'updatedAt', 'updatedBy'])
+        && request.resource.data.updatedBy == request.auth.uid
+        && request.resource.data.updatedAt == request.time
+        && request.resource.data.fields is map
+        && request.resource.data.fields.keys().hasOnly([
+          'service.day', 'service.time', 'service.room', 'service.addressLine', 'service.city', 'service.state', 'service.postalCode',
+          'contactEmail', 'links.giving', 'links.koreanCongregation',
+          'home.hero.headingLine1', 'home.hero.headingLine2', 'home.hero.descriptionLine1', 'home.hero.descriptionLine2',
+          'home.hero.mainPhoto', 'home.hero.mainPhotoAlt', 'home.hero.nearPhoto', 'home.hero.nearPhotoAlt',
+          'home.community.headingLine1', 'home.community.headingLine2', 'home.community.description', 'home.community.meetingDays',
+          'home.invitation.headingLine1', 'home.invitation.headingLine2', 'home.invitation.description'
+        ])
+        && fieldsOk(request.resource.data.fields);
+
+      function fieldsOk(f) {
+        return textOk(f, 'service.day', 30)
+          && textOk(f, 'service.time', 30)
+          && textOk(f, 'service.room', 80)
+          && textOk(f, 'service.addressLine', 120)
+          && textOk(f, 'service.city', 80)
+          && textOk(f, 'service.state', 30)
+          && textOk(f, 'service.postalCode', 20)
+          && emailOk(f, 'contactEmail')
+          && urlOk(f, 'links.giving')
+          && urlOk(f, 'links.koreanCongregation')
+          && textOk(f, 'home.hero.headingLine1', 32)
+          && textOk(f, 'home.hero.headingLine2', 32)
+          && textOk(f, 'home.hero.descriptionLine1', 90)
+          && textOk(f, 'home.hero.descriptionLine2', 90)
+          && imageOk(f, 'home.hero.mainPhoto')
+          && textOk(f, 'home.hero.mainPhotoAlt', 200)
+          && imageOk(f, 'home.hero.nearPhoto')
+          && textOk(f, 'home.hero.nearPhotoAlt', 200)
+          && textOk(f, 'home.community.headingLine1', 45)
+          && textOk(f, 'home.community.headingLine2', 45)
+          && textOk(f, 'home.community.description', 300)
+          && textOk(f, 'home.community.meetingDays', 80)
+          && textOk(f, 'home.invitation.headingLine1', 40)
+          && textOk(f, 'home.invitation.headingLine2', 40)
+          && textOk(f, 'home.invitation.description', 220);
+      }
+    }
+
+    // Everything else is closed.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

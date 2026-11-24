@@ -12,13 +12,14 @@ const Pages = lazy(() => import('./pages/Pages'))
 const HouseChurch = lazy(() => import('./pages/HouseChurch'))
 const Sermons = lazy(() => import('./pages/Sermons'))
 const Gallery = lazy(() => import('./pages/Gallery'))
+const AccountArea = lazy(() => import('./pages/account/AccountArea'))
 
 function Site() {
   const { service } = useSiteContent()
   const location = useLocation()
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: 'instant' })
-    const title: Record<string, string> = { '/': 'A place to grow together', '/house-church': 'House Church', '/gallery': 'Gallery', '/listen': 'Listen', '/events': 'Events', '/give': 'Give', '/about-us/who-we-are': 'Who We Are', '/who-we-are': 'Who We Are', '/joseph': 'Joseph sermons', '/about-us/meet-our-staff': 'Meet Our Staff', '/about-us/our-core-values': 'Our Core Beliefs' }
+    const title: Record<string, string> = { '/': 'A place to grow together', '/house-church': 'House Church', '/gallery': 'Gallery', '/listen': 'Listen', '/events': 'Events', '/give': 'Give', '/about-us/who-we-are': 'Who We Are', '/who-we-are': 'Who We Are', '/joseph': 'Joseph sermons', '/about-us/meet-our-staff': 'Meet Our Staff', '/about-us/our-core-values': 'Our Core Beliefs', '/account': 'Your account', '/account/sign-in': 'Sign in', '/account/admin': 'Admin' }
     document.title = `${title[location.pathname] || (location.pathname.startsWith('/listen/') ? 'Sermon archive' : 'Page not found')} | God’s Family Church`
     document.querySelector('meta[name=description]')?.setAttribute('content', `God’s Family Church in ${service.city}, ${service.state}. Find a house church, grow in faith, and join our English-Speaking Congregation ${service.day.toLowerCase()} at ${service.time}.`)
   }, [location.pathname, service])
@@ -30,6 +31,7 @@ function Site() {
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/listen/*" element={<Sermons />} />
         <Route path="/joseph" element={<Sermons alias="joseph" />} />
+        <Route path="/account/*" element={<AccountArea />} />
         <Route path="*" element={<Pages />} />
       </Routes>
     </Suspense>

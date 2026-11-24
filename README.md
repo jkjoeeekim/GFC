@@ -19,7 +19,7 @@ npm run check:content
 python3 research/check_migration.py
 ```
 
-The production output is `dist/`. This is a client-routed app: configure the host to serve `index.html` for page routes. `public/_redirects` provides that rule for compatible static hosts. No production deployment or admin backend is configured.
+The production output is `dist/`. This is a client-routed app: configure the host to serve `index.html` for page routes. `public/_redirects` provides that rule for compatible static hosts. Accounts and the admin editor use Firebase when configured (see below).
 
 ## Component and content structure
 
@@ -33,6 +33,10 @@ The production output is `dist/`. This is a client-routed app: configure the hos
 - `src/styles/`: shared design tokens and styles grouped by responsibility; mobile and reduced-motion rules are in `responsive.css`.
 
 See [the admin integration guide](docs/ADMIN_INTEGRATION.md) for the portal connection boundary and permitted site fields.
+
+## Accounts
+
+People sign in with a phone number and text-message code; accounts are regular members or admins, and admins can edit the permitted site fields and manage access. It uses Firebase and stays off until Firebase settings are supplied. See [accounts and admin setup](docs/AUTH_SETUP.md).
 
 ## Content preservation
 

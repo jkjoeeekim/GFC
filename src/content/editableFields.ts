@@ -30,6 +30,10 @@ export const editableFields: readonly FieldDefinition[] = [
   { path: 'home.invitation.description', label: 'Closing invitation', type: 'text', maxLength: 220 },
 ]
 
+export function readSiteField(site: SiteContent, path: string): string {
+  return path.split('.').reduce<unknown>((value, key) => (value as Record<string, unknown>)?.[key], site) as string
+}
+
 /** Format validation only. The portal must authorize and validate updates on its server. */
 export function applySiteContentPatch(current: SiteContent, patch: Record<string, unknown>): SiteContent {
   const next = structuredClone(current)
