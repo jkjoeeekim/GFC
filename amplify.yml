@@ -1,0 +1,22 @@
+# AWS Amplify Hosting build settings. Serves from the domain root, so
+# BASE_PATH is left unset (it is only for the GitHub Pages /GFC/ copy).
+# The SPA rewrite to /index.html is configured in the Amplify console under
+# Hosting → Rewrites and redirects.
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - nvm install 22
+        - nvm use 22
+        - npm ci
+    build:
+      commands:
+        - npm run build
+  artifacts:
+    baseDirectory: dist
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - node_modules/**/*
